@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>阿里妈妈查看 - 784040932</title>
+<script type="text/javascript" language="javascript">
+	function doSearch() {
+		var src = document.getElementById('src').value;
+		//查看高佣情况
+		var url1 = "http://pub.alimama.com/promo/item/channel/index.htm?q=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fid%3D";
+		//查看普通返利情况
+		var url2 = "http://pub.alimama.com/promo/search/index.htm?queryType=2&q=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fid%3D";
+		//查看高佣情况尾巴
+		var url3 = "&channel=qqhd&_t=";
+		var timestamp = new Date().getTime();
+		var str = src.slice(src.search(/[&?]id=[0-9]/i)+4);
+		var endstr = str.indexOf("&");
+		var link1 = url1 + str.slice(str,endstr) + url3 + timestamp;
+		var link2 = url2 + str.slice(str,endstr);
+		var link3 = url1 + str + url3 + timestamp;
+		var link4 = url2 + str;
+		if (endstr > -1) {
+			//查看高佣情况
+			document.getElementById('dest1').value = link1;
+			document.getElementById('qqhd').href = link1;
+			document.getElementById('qqhd').target = "_blank";
+			//查看普通返利情况
+			document.getElementById('dest2').value = link2;
+			document.getElementById('union').href = link2;
+			document.getElementById('union').target = "_blank";
+		} else {
+			//查看高佣情况
+			document.getElementById('dest1').value = link3;
+			document.getElementById('qqhd').href = link3;
+			document.getElementById('qqhd').target = "_blank";
+			//查看普通返利情况
+			document.getElementById('dest2').value = link4;
+			document.getElementById('union').href = link4;
+			document.getElementById('union').target = "_blank";
+		}
+	}
+	
+</script>
+<style type="text/css">
+<!--
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: #000000;
+	font-family: 'Microsoft YaHei';
+	font-size: 24px;
+}
+#src {
+	font-family: Consolas;
+	font-size: 20px;
+	height: 48px;
+	width: 60%;
+}
+.button {
+	height: 54px;
+	width: 10%;
+	vertical-align: top;
+}
+#opt {
+	
+}
+#dest1 {
+	border: none;
+	font-family: Consolas;
+	font-size: 20px;
+	width: 100%;
+}
+#dest2 {
+	border: none;
+	font-family: Consolas;
+	font-size: 20px;
+	width: 100%;
+}
+textarea {
+	outline:none;
+}
+footer {
+	bottom: 20px;
+	margin-bottom: 20px;
+	position: absolute;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<div>
+	<input autocomplete="off" autofocus="autofocus" id="src" name="src" onkeydown="if(event.keyCode==13){doSearch();}" onmouseover="this.focus();this.select()" type="text" />
+	<input class="button" name="Search" onclick="doSearch();" type="button" value="搜索" />&nbsp;
+</div>
+
+<p>
+	<a id="qqhd" href="#" target="">查看高佣情况</a>：
+</p>
+<p>
+	<textarea cols="60" id="dest1" name="dest1" onmouseover="this.focus();this.select()" readonly="readonly" rows="2"></textarea>
+</p>
+<p>
+	<a id="union" href="#" target="">查看普通返利情况</a>：
+</p>
+<p>
+	<textarea cols="60" id="dest2" name="dest2" onmouseover="this.focus();this.select()" readonly="readonly" rows="2"></textarea>
+</p>
+
+<footer>
+V1.0 By 784040932.
+</footer>
+
+</body>
+</html>
