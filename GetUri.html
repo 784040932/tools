@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>URI加密/解密工具 - 784040932</title>
+<script type="text/javascript" language="javascript">
+	function doDecode() {
+		var src = document.getElementById('src').value;
+		document.getElementById('dest').value = decodeURIComponent(src.slice(src.indexOf("=http")+1));
+	}
+	
+	function doEncode() {
+		var src = document.getElementById('src').value;
+		document.getElementById('dest').value = encodeURIComponent(src);
+	}
+	
+</script>
+<style type="text/css">
+<!--
+#src {
+	font-family: Consolas;
+	font-size: 30px;
+	height: 48px;
+	width: 60%;
+}
+.button {
+	height: 54px;
+	width: 10%;
+	vertical-align: top;
+}
+#opt {
+	
+}
+#dest {
+	border: none;
+	font-family: Consolas;
+	font-size: 30px;
+	width: 100%;
+}
+textarea {
+	margin-top: 10%;
+	outline:none;
+}
+footer {
+	bottom: 20px;
+	margin-bottom: 20px;
+	position: absolute;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<div>
+	<input autocomplete="off" autofocus="autofocus" id="src" name="src" onkeydown="if(event.keyCode==13){doDecode();}" onmouseover="this.focus();this.select()" type="text" />
+	<input class="button" name="Decode" onclick="doDecode();" type="button" value="解密" />&nbsp;
+	<input class="button" name="Encode" onclick="doEncode();" type="button" value="加密" />&nbsp;
+</div>
+
+<p>
+	<textarea cols="60" id="dest" name="dest" onmouseover="this.focus();this.select()" readonly="readonly" rows="1"></textarea>
+</p>
+
+<footer>
+V1.0 By 784040932.
+</footer>
+
+</body>
+</html>
