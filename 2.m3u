@@ -73,11 +73,11 @@ http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m
 #EXTINF:-1 ,河北卫视
 http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8
 #EXTINF:-1 ,云南卫视
-https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8 #http://edge1.ynradio.com/channels/yntv/ynws/m3u8:sd/index.m3u8
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 ,宁夏卫视
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6 #http://ivi.bupt.edu.cn/hls/nxtv.m3u8
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
 #EXTINF:-1 ,青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8 #http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 ,新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1 ,厦门卫视
