@@ -50,7 +50,7 @@ http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1,深圳卫视
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
 #EXTINF:-1,云南卫视
-https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8 #http://edge1.ynradio.com/channels/yntv/ynws/m3u8:sd/index.m3u8
 #EXTINF:-1,安徽卫视
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1,辽宁卫视
@@ -90,9 +90,9 @@ http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1,陕西卫视
 http://ivi.bupt.edu.cn/hls/sxtv.m3u8
 #EXTINF:-1,宁夏卫视
-http://ivi.bupt.edu.cn/hls/nxtv.m3u8
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6 #http://ivi.bupt.edu.cn/hls/nxtv.m3u8
 #EXTINF:-1,青海卫视
-http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+http://live.geermurmt.com/qhws/sd/live.m3u8 #http://ivi.bupt.edu.cn/hls/qhtv.m3u8
 #EXTINF:-1,甘肃卫视
 http://ivi.bupt.edu.cn/hls/gstv.m3u8
 #EXTINF:-1,山东教育
@@ -104,13 +104,13 @@ http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
 #EXTINF:-1,内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1,新疆卫视
-http://ott-iptv.top/gwzb/QQ:2301366939/xinjiang/xinjiang.php?id=1
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8 #http://ott-iptv.top/gwzb/QQ:2301366939/xinjiang/xinjiang.php?id=1
 #EXTINF:-1,西藏卫视
 http://ivi.bupt.edu.cn/hls/xztv.m3u8
 #EXTINF:-1,中国教育-4
 http://ivi.bupt.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1,厦门卫视
-https://live1.kxm.xmtv.cn/xmtxmtv/playlist.m3u8
+http://xiamencncc.v.wscdns.com/xiamen/xiamen_1/index.m3u8
 #EXTINF:-1,金鹰卡通
 http://ivi.bupt.edu.cn/hls/jykttv.m3u8
 #EXTINF:-1,兵团卫视
@@ -121,6 +121,30 @@ http://ivi.bupt.edu.cn/hls/ybtv.m3u8
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1,上海纪实
 http://ivi.bupt.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1,经济生活
+http://live2.plus.hebtv.com/jjshx/hd/live.m3u8
+#EXTINF:-1,农民频道
+http://live3.plus.hebtv.com/nmpdx/hd/live.m3u8
+#EXTINF:-1,河北都市
+http://live3.plus.hebtv.com/hbdsx/hd/live.m3u8
+#EXTINF:-1,河北影视剧
+http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
+#EXTINF:-1,少儿科教
+http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
+#EXTINF:-1,河北公共
+http://live7.plus.hebtv.com/hbggx/hd/live.m3u8
+#EXTINF:-1,保定新闻综合
+http://live.bdgdw.com/channel1/sd/live.m3u8
+#EXTINF:-1,保定公共频道
+http://live.bdgdw.com/channel2/sd/live.m3u8
+#EXTINF:-1,保定生活健康
+http://live.bdgdw.com/channel3/sd/live.m3u8
+#EXTINF:-1,涿州新闻
+http://121.18.115.162:8082/live/ch3.m3u8
+#EXTINF:-1,涿州生活
+http://121.18.115.162:8082/live/ch4.m3u8
+#EXTINF:-1,涿州都市
+http://121.18.115.162:8082/live/ch5.m3u8
 #EXTINF:-1,凤凰卫视中文台
 rtmp://58.200.131.2:1935/livetv/fhzw
 #EXTINF:-1,凤凰卫视资讯台
@@ -139,13 +163,9 @@ rtmp://58.200.131.2:1935/livetv/natlgeo
 rtmp://58.200.131.2:1935/livetv/starsports
 #EXTINF:-1,石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1,门头沟电视台
-http://hls234.dszbdq.cn/v/d/bj.php?id=bjmtg
 #EXTINF:-1,通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1,顺义电视台
 http://hls234.dszbdq.cn/v/d/bj.php?id=bjsy
 #EXTINF:-1,怀柔电视台
 http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
-#EXTINF:-1,平谷电视台
-http://hls234.dszbdq.cn/v/d/bj.php?id=bjpg
