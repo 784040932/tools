@@ -1,77 +1,81 @@
 #EXTINF:-1 ,北京卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8
 #EXTINF:-1 ,北京文艺
-http://221.179.136.135/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
 #EXTINF:-1 ,北京科教
-http://111.13.42.5/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226559/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
 #EXTINF:-1 ,北京影视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
 #EXTINF:-1 ,北京财经
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
 #EXTINF:-1 ,北京生活
-http://221.179.136.146/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
 #EXTINF:-1 ,北京青年
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226562/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
 #EXTINF:-1 ,北京新闻
-http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
-#EXTINF:-1 ,北京冬奥纪实
-http://111.13.42.43/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8
-#EXTINF:-1 ,凤凰中文
-http://221.179.217.69/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 ,凤凰中文
-http://111.13.42.8/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://221.179.217.76/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 #EXTINF:-1 ,北京卡酷少儿
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
-#EXTINF:-1 ,北京国际
-http://221.179.136.146/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
-#EXTINF:-1 ,北京IPTV淘BABY
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
-#EXTINF:-1 ,北京IPTV淘剧场
-http://221.179.136.139/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
-#EXTINF:-1 ,北京IPTV淘娱乐
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
-#EXTINF:-1 ,北京IPTV淘电影
-http://221.179.136.144/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 ,北京IPTV萌宠TV
-http://221.179.136.146/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
+#EXTINF:-1 ,凤凰中文
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 ,凤凰中文
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
 #EXTINF:-1 ,北京大健康
-http://111.13.42.45/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
-#EXTINF:-1 ,湖南卫视
-http://221.179.136.147/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8
-#EXTINF:-1 ,安徽卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
-#EXTINF:-1 ,东方卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-#EXTINF:-1 ,广东卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-#EXTINF:-1 ,湖北卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
-#EXTINF:-1 ,江苏卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 ,江西卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-#EXTINF:-1 ,山东卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8
-#EXTINF:-1 ,深圳卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
-#EXTINF:-1 ,天津卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-#EXTINF:-1 ,浙江卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 ,东南卫视
-http://111.13.42.13/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226406/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
+#EXTINF:-1 ,北京冬奥纪实
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
+#EXTINF:-1 ,北京国际
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
+#EXTINF:-1 ,北京IPTV4K超清
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 ,北京IPTV淘BABY
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 ,北京IPTV淘剧场
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1 ,北京IPTV淘娱乐
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+#EXTINF:-1 ,北京IPTV淘电影
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 ,北京IPTV萌宠TV
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 #EXTINF:-1 ,中国教育1
-http://111.13.42.43/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
-#EXTINF:-1 ,贵州卫视
-http://221.179.136.143/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8
+#EXTINF:-1 ,东南卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226406/1.m3u8
+#EXTINF:-1 ,东方卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8
+#EXTINF:-1 ,天津卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226246/1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226223/1.m3u8
+#EXTINF:-1 ,山东卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226244/1.m3u8
+#EXTINF:-1 ,广东卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226238/1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226242/1.m3u8
+#EXTINF:-1 ,江西卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8
 #EXTINF:-1 ,河北卫视
-http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
+#EXTINF:-1 ,浙江卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226247/1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226245/1.m3u8
+#EXTINF:-1 ,湖北卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8
+#EXTINF:-1 ,湖南卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 ,湖南快乐垂钓
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8
+#EXTINF:-1 ,湖南茶频道
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8
 #EXTINF:-1 ,云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 ,宁夏卫视
@@ -82,154 +86,52 @@ http://live.geermurmt.com/qhws/sd/live.m3u8
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1 ,厦门卫视
 http://xiamencncc.v.wscdns.com/xiamen/xiamen_1/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://111.13.42.7/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225873/1.m3u8
-#EXTINF:-1 ,东南卫视
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225876/1.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
-#EXTINF:-1 ,广西卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
-#EXTINF:-1 ,贵州卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8
-#EXTINF:-1 ,河北卫视
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8
-#EXTINF:-1 ,吉林卫视
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
-#EXTINF:-1 ,海南卫视
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
-#EXTINF:-1 ,青海卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 ,山西卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 ,陕西卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1 ,四川卫视
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225898/1.m3u8
-#EXTINF:-1 ,西藏卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 ,新疆卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 ,云南卫视
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
-#EXTINF:-1 ,山东教育卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226336/1.m3u8
-#EXTINF:-1 ,重庆卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
-#EXTINF:-1 ,中国教育4
-http://221.179.136.146/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
-#EXTINF:-1 ,贵州卫视
-http://111.13.42.10/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226405/1.m3u8
-#EXTINF:-1 ,四川卫视
-http://111.13.42.10/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226407/1.m3u8
-#EXTINF:-1 ,广西卫视
-http://111.13.42.13/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226408/1.m3u8
-#EXTINF:-1 ,河北卫视
-http://221.179.136.148/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226409/1.m3u8
-#EXTINF:-1 ,山西卫视
-http://221.179.136.143/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226410/1.m3u8
-#EXTINF:-1 ,陕西卫视
-http://111.13.42.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226411/1.m3u8
-#EXTINF:-1 ,青海卫视
-http://221.179.136.141/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226412/1.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://221.179.217.75/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226413/1.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://221.179.136.135/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226414/1.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://221.179.136.136/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226415/1.m3u8
-#EXTINF:-1 ,山东教育卫视
-http://111.13.42.43/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226419/1.m3u8
-#EXTINF:-1 ,新疆卫视
-http://111.13.42.13/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226422/1.m3u8
-#EXTINF:-1 ,云南卫视
-http://111.13.42.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226424/1.m3u8
-#EXTINF:-1 ,吉林卫视
-http://221.179.136.149/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226426/1.m3u8
-#EXTINF:-1 ,海南卫视
-http://111.13.42.42/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226427/1.m3u8
-#EXTINF:-1 ,西藏卫视
-http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226428/1.m3u8
-#EXTINF:-1 ,北京卫视
-http://221.179.136.144/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
-#EXTINF:-1 ,山东卫视
-http://221.179.136.138/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226487/1.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://111.13.42.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8
-#EXTINF:-1 ,天津卫视
-http://221.179.136.144/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226489/1.m3u8
-#EXTINF:-1 ,安徽卫视
-http://221.179.136.145/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8
-#EXTINF:-1 ,江苏卫视
-http://221.179.136.146/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226491/1.m3u8
-#EXTINF:-1 ,浙江卫视
-http://111.13.42.46/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226492/1.m3u8
-#EXTINF:-1 ,湖南卫视
-http://221.179.136.148/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8
-#EXTINF:-1 ,东南卫视
-http://111.13.42.45/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226517/1.m3u8
-#EXTINF:-1 ,重庆卫视
-http://111.13.42.44/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8
-#EXTINF:-1 ,东方卫视
-http://111.13.42.45/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226519/1.m3u8
-#EXTINF:-1 ,湖北卫视
-http://111.13.42.46/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226520/1.m3u8
-#EXTINF:-1 ,贵州卫视
-http://111.13.42.44/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226521/1.m3u8
-#EXTINF:-1 ,江西卫视
-http://111.13.42.46/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226522/1.m3u8
-#EXTINF:-1 ,四川卫视
-http://111.13.42.46/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226523/1.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://111.13.42.12/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8
-#EXTINF:-1 ,河南卫视
-http://111.13.42.45/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/1.m3u8
-#EXTINF:-1 ,山东教育卫视
-http://111.13.42.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8
-#EXTINF:-1 ,西藏卫视
-http://111.13.42.13/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://221.179.217.76/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8
-#EXTINF:-1 ,青海卫视
-http://111.13.42.43/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://221.179.136.135/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/1.m3u8
-#EXTINF:-1 ,山西卫视
-http://111.13.42.12/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8
-#EXTINF:-1 ,陕西卫视
-http://111.13.42.44/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8
-#EXTINF:-1 ,吉林卫视
-http://221.179.136.136/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8
-#EXTINF:-1 ,广西卫视
-http://221.179.217.76/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8
-#EXTINF:-1 ,广东卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226535/1.m3u8
-#EXTINF:-1 ,河北卫视
-http://111.13.42.42/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226536/1.m3u8
 #EXTINF:-1 ,中国教育2
-http://221.179.136.134/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8
-#EXTINF:-1 ,广东南方卫视地面
-http://221.179.136.141/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226540/1.m3u8
-#EXTINF:-1 ,新疆兵团卫视
-http://111.13.42.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8
-#EXTINF:-1 ,厦门卫视
-http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
-#EXTINF:-1 ,云南卫视
-http://111.13.42.10/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8
-#EXTINF:-1 ,海南三沙卫视
-http://111.13.42.43/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://221.179.136.135/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/1.m3u8
-#EXTINF:-1 ,新疆卫视
-http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226537/1.m3u8
 #EXTINF:-1 ,中国教育4
-http://111.13.42.5/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226362/1.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 ,广西卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 ,吉林卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225886/1.m3u8
+#EXTINF:-1 ,海南卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225890/1.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225892/1.m3u8
+#EXTINF:-1 ,青海卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 ,山西卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 ,陕西卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225896/1.m3u8
+#EXTINF:-1 ,四川卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225898/1.m3u8
+#EXTINF:-1 ,西藏卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,新疆卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,云南卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225902/1.m3u8
+#EXTINF:-1 ,山东教育卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225908/1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226337/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226525/1.m3u8
+#EXTINF:-1 ,广东南方卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226540/1.m3u8
+#EXTINF:-1 ,新疆兵团卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226541/1.m3u8
+#EXTINF:-1 ,厦门卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/1.m3u8
+#EXTINF:-1 ,海南三沙卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 ,石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 ,房山无线
