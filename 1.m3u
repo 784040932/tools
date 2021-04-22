@@ -137,10 +137,6 @@ http://39.134.168.76/PLTV/1/224/3221225486/index.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 #EXTINF:-1,凤凰资讯
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
-#EXTINF:-1,都市
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&stbId=2
-#EXTINF:-1,五星体育
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&stbId=2
 #EXTINF:-1,凤凰卫视中文台
 rtmp://58.200.131.2:1935/livetv/fhzw
 #EXTINF:-1,凤凰卫视资讯台
