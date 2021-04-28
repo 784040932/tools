@@ -121,8 +121,6 @@ http://ivi.bupt.edu.cn/hls/ybtv.m3u8
 http://ivi.bupt.edu.cn/hls/sstv.m3u8
 #EXTINF:-1,纪实人文
 http://39.134.168.76/PLTV/1/224/3221225488/index.m3u8
-#EXTINF:-1,五星体育
-http://111.26.225.22/PLTV/2/224/3221225491/index.m3u8
 #EXTINF:-1,凤凰卫视中文台
 rtmp://58.200.131.2:1935/livetv/fhzw
 #EXTINF:-1,凤凰卫视资讯台
