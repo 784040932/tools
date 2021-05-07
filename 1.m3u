@@ -138,13 +138,13 @@ rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1,Star Sports
 rtmp://58.200.131.2:1935/livetv/starsports
 #EXTINF:-1,新闻频道
-http://784040932.tk/tv/hncs.php?id=346
+http://784040932.tk/tv/?id=346
 #EXTINF:-1,政法频道
-http://784040932.tk/tv/hncs.php?id=348
+http://784040932.tk/tv/?id=348
 #EXTINF:-1,女性频道
-http://784040932.tk/tv/hncs.php?id=349
+http://784040932.tk/tv/?id=349
 #EXTINF:-1,影视频道
-http://784040932.tk/tv/hncs.php?id=350
+http://784040932.tk/tv/?id=350
 #EXTINF:-1,石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1,通州电视台
