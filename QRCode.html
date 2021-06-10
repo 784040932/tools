@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>QRCode 二维码生成工具 - 784040932</title>
+<script type="text/javascript" src="//cdn.staticfile.org/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="//cdn.staticfile.org/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
+<script type="text/javascript" src="//cdn.staticfile.org/qrcodejs/1.0.0/qrcode.js"></script>
+<style type="text/css">
+<!--
+#src {
+	font-family: Consolas;
+	font-size: 30px;
+	height: 48px;
+	width: 60%;
+}
+.button {
+	height: 54px;
+	width: 10%;
+	vertical-align: top;
+}
+#opt {
+	
+}
+#dest {
+	border: none;
+	font-family: Consolas;
+	font-size: 30px;
+	width: 100%;
+}
+textarea {
+	margin-top: 10%;
+	outline:none;
+}
+footer {
+	bottom: 20px;
+	margin-bottom: 20px;
+	position: absolute;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<div>
+	<input autocomplete="off" autofocus="autofocus" id="url" name="src" onkeydown="if(event.keyCode==13){doEncode();}" onmouseover="this.focus();this.select()" type="text" />
+	<input class="button" name="encode" onclick="creat();" type="button" value="生成" />&nbsp;
+</div>
+
+<p>
+	<div id="qrcodeTable"></div> 
+</p>
+
+<script type="text/javascript">
+   function creat(){
+      $("#qrcodeTable").html("");
+       var url=$("#url").val();
+
+	   $("#qrcodeTable").qrcode({
+		render	: "table",
+		text	: url,
+		width:"300",
+		height:"300"
+	});
+	
+   }
+
+$(document).ready(function(){
+
+	$("#qrcodeTable").qrcode({
+		render	: "table",
+		text	: "http://784040932.wicp.net/",
+		width:"300",
+		height:"300"
+	});	
+	
+});
+</script>
+
+<footer>
+V1.0 By 784040932.
+</footer>
+
+</body>
+</html>
