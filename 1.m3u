@@ -5,16 +5,16 @@ http://live.funhillrm.com/2/sd/live.m3u8
 http://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1,都市
 http://39.134.168.76/PLTV/1/224/3221225610/index.m3u8
-#EXTINF:-1,生活时尚
-http://39.134.168.76/PLTV/1/224/3221225498/index.m3u8
 #EXTINF:-1,纪实人文
 http://39.134.168.76/PLTV/1/224/3221225488/index.m3u8
-#EXTINF:-1,第一财经
-http://39.134.168.76/PLTV/1/224/3221225494/index.m3u8
 #EXTINF:-1,东方影视
 http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
+#EXTINF:-1,第一财经
+http://39.134.168.76/PLTV/1/224/3221225494/index.m3u8
 #EXTINF:-1,ICS
 http://39.134.168.76/PLTV/1/224/3221225486/index.m3u8
+#EXTINF:-1,生活时尚
+http://39.134.168.76/PLTV/1/224/3221225498/index.m3u8
 #EXTINF:-1,凤凰资讯
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1,北京冬奥纪实
@@ -127,16 +127,6 @@ http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8
 #EXTINF:-1,茶频道
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8
-#EXTINF:-1,都市
-http://39.134.168.76/PLTV/1/224/3221225610/index.m3u8
-#EXTINF:-1,东方影视
-http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
-#EXTINF:-1,ICS外语
-http://39.134.168.76/PLTV/1/224/3221225486/index.m3u8
-#EXTINF:-1,第一财经
-http://39.134.168.76/PLTV/1/224/3221225494/index.m3u8
-#EXTINF:-1,纪实人文
-http://39.134.168.76/PLTV/1/224/3221225488/index.m3u8
 #EXTINF:-1,凤凰卫视中文台
 rtmp://ivi.bupt.edu.cn/livetv/fhzw
 #EXTINF:-1,凤凰卫视资讯台
@@ -153,6 +143,8 @@ rtmp://58.200.131.2:1935/livetv/discovery
 rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1,Star Sports
 rtmp://58.200.131.2:1935/livetv/starsports
+#EXTINF:-1,上海教视
+http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,新闻频道
 http://784040932.tk/tv/?id=346
 #EXTINF:-1,政法频道
