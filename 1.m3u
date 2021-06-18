@@ -17,6 +17,8 @@ http://39.134.168.76/PLTV/1/224/3221225486/index.m3u8
 http://39.134.168.76/PLTV/1/224/3221225498/index.m3u8
 #EXTINF:-1,凤凰资讯
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1,北京冬奥纪实
+rtmp://ivi.bupt.edu.cn/livetv/btv11hd
 #EXTINF:-1,北京卫视
 rtmp://ivi.bupt.edu.cn/livetv/btv1hd
 #EXTINF:-1,北京文艺
