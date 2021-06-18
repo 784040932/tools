@@ -100,7 +100,7 @@ rtmp://ivi.bupt.edu.cn/livetv/sdetv
 #EXTINF:-1,河北卫视
 rtmp://ivi.bupt.edu.cn/livetv/hebhd
 #EXTINF:-1,山西卫视
-rtmp://ivi.bupt.edu.cn/livetv/sxrtv
+http://live1.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiTV&start=0&provider=www.tvmining.com #rtmp://ivi.bupt.edu.cn/livetv/sxrtv
 #EXTINF:-1,内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1,新疆卫视
