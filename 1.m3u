@@ -88,7 +88,7 @@ rtmp://ivi.bupt.edu.cn/livetv/dnhd
 #EXTINF:-1,湖北卫视
 rtmp://ivi.bupt.edu.cn/livetv/hbhd
 #EXTINF:-1,陕西卫视
-http://stream.snrtv.com/sxbc-star-bcoqy4.m3u8 #rtmp://ivi.bupt.edu.cn/livetv/sxtv
+http://119.188.206.31/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 #rtmp://ivi.bupt.edu.cn/livetv/sxtv
 #EXTINF:-1,宁夏卫视
 http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6 #rtmp://ivi.bupt.edu.cn/livetv/nxtv
 #EXTINF:-1,青海卫视
