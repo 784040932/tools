@@ -167,5 +167,7 @@ http://pull.dayuntongzhou.com/live/tztv
 http://hls234.dszbdq.cn/v/d/bj.php?id=bjsy
 #EXTINF:-1,怀柔电视台
 http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
+#EXTINF:-1,宁夏教育
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900218.m3u8
 #EXTINF:-1,测试
 http://39.134.66.66/PLTV/88888888/224/3221225684/index.m3u8
