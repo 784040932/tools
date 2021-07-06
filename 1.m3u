@@ -132,11 +132,11 @@ rtmp://ivi.bupt.edu.cn/livetv/channelv
 #EXTINF:-1,星空卫视
 rtmp://ivi.bupt.edu.cn/livetv/startv
 #EXTINF:-1,探索频道
-rtmp://ivi.bupt.edu.cn/livetv/livetv/discovery
+rtmp://ivi.bupt.edu.cn/livetv/discovery
 #EXTINF:-1,国家地理频道
-rtmp://ivi.bupt.edu.cn/livetv/livetv/natlgeo
+rtmp://ivi.bupt.edu.cn/livetv/natlgeo
 #EXTINF:-1,Star Sports
-rtmp://ivi.bupt.edu.cn/livetv/livetv/starsports
+rtmp://ivi.bupt.edu.cn/livetv/starsports
 #EXTINF:-1,上海教视
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,四川经济
