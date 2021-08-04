@@ -165,8 +165,6 @@ https://live.funhillrm.com/aac_3/sd/live.m3u8
 http://ls.qingting.fm/live/2131011.m3u8
 #EXTINF:-1,radio=true,阳光调频
 http://ls.qingting.fm/live/2507637.m3u8
-#EXTINF:-1,radio=true,上海KFM981
-http://rs-bj.ajmide.com/r_1001/1001.m3u8
 #EXTINF:-1,radio=true,Hit FM
 http://sk.cri.cn/887.m3u8
 #EXTINF:-1,radio=true,Easy FM
