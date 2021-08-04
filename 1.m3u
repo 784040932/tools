@@ -161,7 +161,7 @@ http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
 https://live.funhillrm.com/aac_4/sd/live.m3u8
 #EXTINF:-1,radio=true,房山新闻综合广播
 https://live.funhillrm.com/aac_3/sd/live.m3u8
-#EXTINF:-1,radio=true,好音乐
+#EXTINF:-1,radio=true,涿州广播电视台综合广播
 http://ls.qingting.fm/live/2131011.m3u8
 #EXTINF:-1,radio=true,阳光调频
 http://ls.qingting.fm/live/2507637.m3u8
