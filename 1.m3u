@@ -157,11 +157,9 @@ http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
 http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,京津冀之声
 http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,房山经典音乐广播
-https://live.funhillrm.com/aac_4/sd/live.m3u8
-#EXTINF:-1,radio=true,房山新闻综合广播
+#EXTINF:-1,radio=true,经典音乐广播
 https://live.funhillrm.com/aac_3/sd/live.m3u8
-#EXTINF:-1,radio=true,涿州广播电视台综合广播
+#EXTINF:-1,radio=true,FM95.9
 http://ls.qingting.fm/live/2131011.m3u8
 #EXTINF:-1,radio=true,阳光调频
 http://ls.qingting.fm/live/2507637.m3u8
@@ -169,3 +167,23 @@ http://ls.qingting.fm/live/2507637.m3u8
 http://sk.cri.cn/887.m3u8
 #EXTINF:-1,radio=true,Easy FM
 http://sk.cri.cn/915.m3u8
+#EXTINF:-1,radio=true,上海动感101
+http://live.xmcdn.com/live/53/64.m3u8
+#EXTINF:-1,radio=true,上海Love Radio
+http://live.xmcdn.com/live/55/64.m3u8
+#EXTINF:-1,radio=true,上海交通广播电台
+http://live.xmcdn.com/live/59/64.m3u8
+#EXTINF:-1,radio=true,上海城市沸点FM100.1
+http://live.xmcdn.com/live/1236/64.m3u8
+#EXTINF:-1,radio=true,上海KFM981
+http://live.xmcdn.com/live/1661/64.m3u8
+#EXTINF:-1,radio=true,广东音乐之声
+http://live.xmcdn.com/live/74/64.m3u8
+#EXTINF:-1,radio=true,广州MYFM 88.0
+http://live.xmcdn.com/live//64.m3u8
+#EXTINF:-1,radio=true,广州交通广播
+http://live.xmcdn.com/live//64.m3u8
+#EXTINF:-1,radio=true,深圳飞扬音乐971
+http://ls.qingting.fm/live/1271.m3u8
+#EXTINF:-1,radio=true,深圳快乐1062
+http://ls.qingting.fm/live/1272.m3u8
