@@ -3,12 +3,12 @@
 http://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1,房山有线
 http://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1,上海教视
-http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1,顺义电视台
 http://hls234.dszbdq.cn/v/d/bj.php?id=bjsy
+#EXTINF:-1,通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1,新闻频道
 http://784040932.tk/tv/?id=346
 #EXTINF:-1,政法频道
@@ -40,23 +40,23 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #EXTINF:-1,凤凰卫视
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 #EXTINF:-1,湖南卫视
-rtmp://ivi.bupt.edu.cn/livetv/hunanhd
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1,江苏卫视
-rtmp://ivi.bupt.edu.cn/livetv/jshd
+http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1,浙江卫视
-rtmp://ivi.bupt.edu.cn/livetv/zjhd
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 #EXTINF:-1,东方卫视
-rtmp://ivi.bupt.edu.cn/livetv/dfhd
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1,深圳卫视
-rtmp://ivi.bupt.edu.cn/livetv/szhd
+http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1,云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8 #http://edge1.ynradio.com/channels/yntv/ynws/m3u8:sd/index.m3u8
 #EXTINF:-1,安徽卫视
-rtmp://ivi.bupt.edu.cn/livetv/ahhd
+http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1,辽宁卫视
 rtmp://ivi.bupt.edu.cn/livetv/lnhd
 #EXTINF:-1,山东卫视
-rtmp://ivi.bupt.edu.cn/livetv/sdhd
+http://39.134.66.66/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1,中国教育-3
 rtmp://ivi.bupt.edu.cn/livetv/cetv3
 #EXTINF:-1,中国教育-1
@@ -72,21 +72,21 @@ rtmp://ivi.bupt.edu.cn/livetv/gzhd
 #EXTINF:-1,四川卫视
 rtmp://ivi.bupt.edu.cn/livetv/schd
 #EXTINF:-1,江西卫视
-rtmp://ivi.bupt.edu.cn/livetv/jxhd
+http://39.134.66.66/PLTV/88888888/224/3221225512/index.m3u8
 #EXTINF:-1,天津卫视
-rtmp://ivi.bupt.edu.cn/livetv/tjhd
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1,广西卫视
 rtmp://ivi.bupt.edu.cn/livetv/gxhd
 #EXTINF:-1,河南卫视
 rtmp://ivi.bupt.edu.cn/livetv/hnhd
 #EXTINF:-1,广东卫视
-rtmp://ivi.bupt.edu.cn/livetv/gdhd
+http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1,吉林卫视
 rtmp://ivi.bupt.edu.cn/livetv/jlhd
 #EXTINF:-1,东南卫视
 rtmp://ivi.bupt.edu.cn/livetv/dnhd
 #EXTINF:-1,湖北卫视
-rtmp://ivi.bupt.edu.cn/livetv/hbhd
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
 #EXTINF:-1,陕西卫视
 http://119.188.206.31/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 #rtmp://ivi.bupt.edu.cn/livetv/sxtv
 #EXTINF:-1,宁夏卫视
@@ -121,6 +121,8 @@ rtmp://ivi.bupt.edu.cn/livetv/sstv
 rtmp://ivi.bupt.edu.cn/livetv/gedocu
 #EXTINF:-1,纪实人文
 rtmp://ivi.bupt.edu.cn/livetv/docuchina
+#EXTINF:-1,上海教视
+http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,凤凰卫视中文台
 rtmp://ivi.bupt.edu.cn/livetv/fhzw
 #EXTINF:-1,凤凰卫视资讯台
@@ -163,27 +165,12 @@ https://live.funhillrm.com/aac_3/sd/live.m3u8
 http://ls.qingting.fm/live/2131011.m3u8
 #EXTINF:-1,radio=true,阳光调频
 http://ls.qingting.fm/live/2507637.m3u8
+#EXTINF:-1,radio=true,爱乐数字音乐广播
+http://live.xmcdn.com/live/1661/64.m3u8
+#EXTINF:-1,radio=true,广东音乐之声
+https://rlizhi.gdtv.cn/audio/fm993.m3u8?auth_key=1629945520-0-0-657329d7a77fe19531241c63cd04aa1d
+http://live.xmcdn.com/live/74/64.m3u8
 #EXTINF:-1,radio=true,Hit FM
 http://sk.cri.cn/887.m3u8
 #EXTINF:-1,radio=true,Easy FM
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1,radio=true,上海动感101
-http://live.xmcdn.com/live/53/64.m3u8
-#EXTINF:-1,radio=true,上海Love Radio
-http://live.xmcdn.com/live/55/64.m3u8
-#EXTINF:-1,radio=true,上海交通广播电台
-http://live.xmcdn.com/live/59/64.m3u8
-#EXTINF:-1,radio=true,上海城市沸点FM100.1
-http://live.xmcdn.com/live/1236/64.m3u8
-#EXTINF:-1,radio=true,上海KFM981
-http://live.xmcdn.com/live/1661/64.m3u8
-#EXTINF:-1,radio=true,广东音乐之声
-http://live.xmcdn.com/live/74/64.m3u8
-#EXTINF:-1,radio=true,广州MYFM 88.0
-http://live.xmcdn.com/live//64.m3u8
-#EXTINF:-1,radio=true,广州交通广播
-http://live.xmcdn.com/live//64.m3u8
-#EXTINF:-1,radio=true,深圳飞扬音乐971
-https://lhttp.qingting.fm/live/1271/64k.mp3
-#EXTINF:-1,radio=true,深圳交通频率
-https://lhttp.qingting.fm/live/1272/64k.mp3
