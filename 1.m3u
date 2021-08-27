@@ -50,7 +50,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1,深圳卫视
 http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1,云南卫视
-https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8 #http://edge1.ynradio.com/channels/yntv/ynws/m3u8:sd/index.m3u8
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8 #http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1,安徽卫视
 http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1,辽宁卫视
@@ -112,11 +112,13 @@ rtmp://ivi.bupt.edu.cn/livetv/cetv4
 #EXTINF:-1,厦门卫视
 rtmp://ivi.bupt.edu.cn/livetv/xmtv
 #EXTINF:-1,兵团卫视
-rtmp://ivi.bupt.edu.cn/livetv/bttv
+http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8 #rtmp://ivi.bupt.edu.cn/livetv/bttv
 #EXTINF:-1,延边卫视
 rtmp://ivi.bupt.edu.cn/livetv/ybtv
 #EXTINF:-1,三沙卫视
 rtmp://ivi.bupt.edu.cn/livetv/sstv
+#EXTINF:-1,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,金鹰纪实
 rtmp://ivi.bupt.edu.cn/livetv/gedocu
 #EXTINF:-1,纪实人文
