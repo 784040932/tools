@@ -3,14 +3,14 @@
 http://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1,房山有线
 http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1,石景山电视台
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1,通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1,顺义电视台
 http://hls234.dszbdq.cn/v/d/bj.php?id=bjsy
-#EXTINF:-1 ,北京IPTV淘BABY
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 #EXTINF:-1 ,北京IPTV淘剧场
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
-#EXTINF:-1 ,北京IPTV淘娱乐
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 #EXTINF:-1 ,北京IPTV淘电影
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 ,北京IPTV萌宠TV
@@ -18,7 +18,7 @@ http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u
 #EXTINF:-1,凤凰资讯
 http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 #EXTINF:-1,北京冬奥纪实
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1,北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 #EXTINF:-1,北京文艺
@@ -37,8 +37,6 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 #EXTINF:-1,北京卡酷
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-#EXTINF:-1,北京国际
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
 #EXTINF:-1,凤凰卫视
 http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 #EXTINF:-1,湖南卫视
@@ -54,27 +52,27 @@ http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1,云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8 #http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1,安徽卫视
-http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1,辽宁卫视
 http://183.207.248.71:80/cntv/live1/liaoningstv/liaoningstv
 #EXTINF:-1,山东卫视
-http://39.134.66.66/PLTV/88888888/224/3221225680/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1,中国教育-2
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
 #EXTINF:-1,中国教育-1
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8
+http://117.136.154.86/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:-1,重庆卫视
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
 #EXTINF:-1,黑龙江卫视
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv
 #EXTINF:-1,海南卫视
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225890/1.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1,贵州卫视
 http://183.207.248.71:80/cntv/live1/n-guizhoustv/n-guizhoustv
 #EXTINF:-1,四川卫视
 http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv
 #EXTINF:-1,江西卫视
-http://39.134.66.66/PLTV/88888888/224/3221225512/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1,天津卫视
 http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1,广西卫视
@@ -82,9 +80,9 @@ http://183.207.248.71:80/cntv/live1/n-guangxistv/n-guangxistv
 #EXTINF:-1,河南卫视
 http://183.207.248.71:80/cntv/live1/henanstv/henanstv
 #EXTINF:-1,广东卫视
-http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1,吉林卫视
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225886/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
 #EXTINF:-1,东南卫视
 http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv
 #EXTINF:-1,湖北卫视
@@ -106,9 +104,9 @@ http://live1.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiTV&start=0&provider=w
 #EXTINF:-1,内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1,新疆卫视
-http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+http://183.207.248.71:80/cntv/live1/n-xjtv1/n-xjtv1 #http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1,西藏卫视
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225900/1.m3u8
+http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
 #EXTINF:-1,中国教育-4
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P-jiaoyutv4
 #EXTINF:-1,厦门卫视
@@ -121,6 +119,8 @@ http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbi
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
 #EXTINF:-1,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,凤凰香港
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1,金鹰纪实
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,纪实人文
@@ -133,10 +133,6 @@ http://784040932.tk/tv/?id=346
 http://784040932.tk/tv/?id=348
 #EXTINF:-1,影视频道
 http://784040932.tk/tv/?id=350
-#EXTINF:-1,石景山电视台
-http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1,通州电视台
-http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1,凤凰卫视中文台
 rtmp://58.200.131.2:1935/livetv/fhzw
 #EXTINF:-1,凤凰卫视资讯台
@@ -182,7 +178,6 @@ http://ls.qingting.fm/live/2507637.m3u8
 #EXTINF:-1,radio=true,爱乐数字音乐广播
 http://live.xmcdn.com/live/1661/64.m3u8
 #EXTINF:-1,radio=true,广东音乐之声
-https://rlizhi.gdtv.cn/audio/fm993.m3u8?auth_key=1629945520-0-0-657329d7a77fe19531241c63cd04aa1d
 http://live.xmcdn.com/live/74/64.m3u8
 #EXTINF:-1,radio=true,Hit FM
 http://sk.cri.cn/887.m3u8
