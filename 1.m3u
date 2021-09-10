@@ -16,9 +16,9 @@ http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u
 #EXTINF:-1 ,北京IPTV萌宠TV
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 #EXTINF:-1,凤凰资讯
-http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
+http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8 #http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://124.238.99.44:808/hls/349/index.m3u8
 #EXTINF:-1,北京冬奥纪实
-http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+http://223.110.241.133:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1,北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 #EXTINF:-1,北京文艺
@@ -38,7 +38,7 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 #EXTINF:-1,北京卡酷
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #EXTINF:-1,凤凰卫视
-http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
+http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8 #http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://124.238.99.44:808/hls/348/index.m3u8
 #EXTINF:-1,湖南卫视
 http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1,江苏卫视
@@ -57,8 +57,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
 http://183.207.248.71:80/cntv/live1/liaoningstv/liaoningstv
 #EXTINF:-1,山东卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1,中国教育-2
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
+#EXTINF:-1,中国教育-3
+http://183.207.248.71/gitv/live1/G_CETV-3/G_CETV-3
 #EXTINF:-1,中国教育-1
 http://117.136.154.86/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:-1,重庆卫视
@@ -109,6 +109,8 @@ http://183.207.248.71:80/cntv/live1/n-xjtv1/n-xjtv1 #http://livehyw5.chinamcache
 http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
 #EXTINF:-1,中国教育-4
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P-jiaoyutv4
+#EXTINF:-1,中国教育-2
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
 #EXTINF:-1,厦门卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-xiamenstv/SD-4000k-576P-xiamenstv
 #EXTINF:-1,兵团卫视
@@ -117,6 +119,8 @@ http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
 #EXTINF:-1,三沙卫视
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
+#EXTINF:-1,第一财经
+http://124.238.99.44:808/hls/100/index.m3u8
 #EXTINF:-1,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,凤凰香港
@@ -133,8 +137,22 @@ http://784040932.tk/tv/?id=346
 http://784040932.tk/tv/?id=348
 #EXTINF:-1,影视频道
 http://784040932.tk/tv/?id=350
+#EXTINF:-1,湖南经视
+http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hnjs
+#EXTINF:-1,湖南都市
+http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hnds
+#EXTINF:-1,湖南娱乐
+http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hnyl
+#EXTINF:-1,湖南电视剧
+http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hndsj
+#EXTINF:-1,湖南公共
+http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hngg
+#EXTINF:-1,湖南国际
+http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hngj
 #EXTINF:-1,星空卫视
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1,宁津新闻综合 
+https://jsylivealone302.iqilu.com/live/ningjin_tv01/index.m3u8
 #EXTINF:-1,radio=true,北京新闻广播
 http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京城市广播
