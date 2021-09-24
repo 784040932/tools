@@ -3,16 +3,16 @@
 http://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1,房山有线
 http://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1 ,北京IPTV萌宠TV
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-#EXTINF:-1 ,北京IPTV淘BABY
-http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-#EXTINF:-1 ,北京IPTV淘剧场
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
-#EXTINF:-1 ,北京IPTV淘电影
+#EXTINF:-1,北京IPTV萌宠TV
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8 #http://39.135.238.61/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+#EXTINF:-1,北京IPTV淘BABY
+http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8 #http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+#EXTINF:-1,北京IPTV淘剧场
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8 #http://39.134.134.84:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/2.m3u8
+#EXTINF:-1,北京IPTV淘电影
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 ,北京IPTV淘娱乐
-http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+#EXTINF:-1,北京IPTV淘娱乐
+http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8 #http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 #EXTINF:-1,凤凰中文
 http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8 #http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://124.238.99.44:808/hls/348/index.m3u8
 #EXTINF:-1,凤凰资讯
@@ -88,9 +88,9 @@ http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv #http://womlive.cl
 #EXTINF:-1,湖北卫视
 http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
 #EXTINF:-1,陕西卫视
-http://119.188.206.31/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8 #http://119.188.206.31/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1,宁夏卫视
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8 #http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
 #EXTINF:-1,青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1,甘肃卫视
@@ -114,11 +114,11 @@ http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyu
 #EXTINF:-1,厦门卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-xiamenstv/SD-4000k-576P-xiamenstv
 #EXTINF:-1,兵团卫视
-http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8 #http://womlive.cloud.wo.cn/tvlive/100023/otpzod_otpzod,100023_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100023/otpzod_otpzod,100023_hls_pull_2000K_live.m3u8
 #EXTINF:-1,延边卫视
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8 #http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
 #EXTINF:-1,三沙卫视
-http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
+http://pull2.ssws.tv/live/SswsTV20210803.m3u8 #http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
 #EXTINF:-1,金鹰纪实
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,纪实人文
@@ -168,21 +168,21 @@ http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1,radio=true,北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8 #http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京城市广播
-http://cnlive.cnr.cn/hls/bjcsgb.m3u8 #http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
+http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京故事广播
-http://cnlive.cnr.cn/hls/bjgsgb.m3u8 #http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
+http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京体育广播
-http://cnlive.cnr.cn/hls/bjtygb.m3u8 #http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
+http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京音乐广播
-http://cnlive.cnr.cn/hls/bjyygb.m3u8 #http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
+http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京交通广播
-http://cnlive.cnr.cn/hls/bjjtgb.m3u8 #http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
+http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京文艺广播
-http://cnlive.cnr.cn/hls/bjwygb.m3u8 #http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
+http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京外语广播
-http://cnlive.cnr.cn/hls/bjwaiygb.m3u8 #http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
+http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京青年广播
-http://cnlive.cnr.cn/hls/bjqngb.m3u8 #http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,京津冀之声
 http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,经典音乐广播
@@ -201,3 +201,5 @@ http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8 #http://sk.cri.cn/887.m3u8
 #EXTINF:-1,radio=true,Easy FM
 http://sk.cri.cn/915.m3u8
+#EXTINF:-1,radio=true,民乐
+http://satellitepull.cnr.cn/live/wxdjy/playlist.m3u8
