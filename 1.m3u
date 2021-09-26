@@ -3,15 +3,15 @@
 http://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1,房山有线
 http://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1,北京IPTV萌宠TV
+#EXTINF:-1,萌宠TV
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8 #http://39.135.238.61/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-#EXTINF:-1,北京IPTV淘BABY
+#EXTINF:-1,淘BABY
 http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8 #http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-#EXTINF:-1,北京IPTV淘剧场
+#EXTINF:-1,淘剧场
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8 #http://39.134.134.84:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/2.m3u8
-#EXTINF:-1,北京IPTV淘电影
+#EXTINF:-1,淘电影
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1,北京IPTV淘娱乐
+#EXTINF:-1,淘娱乐
 http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8 #http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 #EXTINF:-1,凤凰中文
 http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8 #http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://124.238.99.44:808/hls/348/index.m3u8
@@ -37,8 +37,8 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 #EXTINF:-1,北京卡酷
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-#EXTINF:-1,凤凰卫视
-http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://124.238.99.44:808/hls/348/index.m3u8
+#EXTINF:-1,北京国际
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
 #EXTINF:-1,湖南卫视
 http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1,江苏卫视
@@ -119,48 +119,40 @@ http://womlive.cloud.wo.cn/tvlive/100023/otpzod_otpzod,100023_hls_pull_2000K_liv
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8 #http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
 #EXTINF:-1,三沙卫视
 http://pull2.ssws.tv/live/SswsTV20210803.m3u8 #http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
-#EXTINF:-1,金鹰纪实
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,纪实人文
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
-#EXTINF:-1,第一财经
-http://124.238.99.44:808/hls/100/index.m3u8
-#EXTINF:-1,东方影视
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/2300000/mnf.m3u8
-#EXTINF:-1,ICS外语
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/wypdhd/2300000/mnf.m3u8
+#EXTINF:-1,新闻综合
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/2300000/mnf.m3u8
 #EXTINF:-1,都市
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/2300000/mnf.m3u8
+#EXTINF:-1,纪实人文
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
+#EXTINF:-1,东方影视
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/2300000/mnf.m3u8
+#EXTINF:-1,第一财经
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dycjhd/2300000/mnf.m3u8
 #EXTINF:-1,五星体育
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+#EXTINF:-1,哈哈炫动
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/2300000/mnf.m3u8
+#EXTINF:-1,外语频道
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/wypdhd/2300000/mnf.m3u8
 #EXTINF:-1,上海教视
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+#EXTINF:-1,金鹰纪实
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,新闻频道
 http://784040932.tk/tv/?id=346
 #EXTINF:-1,政法频道
 http://784040932.tk/tv/?id=348
 #EXTINF:-1,影视频道
 http://784040932.tk/tv/?id=350
-#EXTINF:-1,湖南经视
-http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hnjs
-#EXTINF:-1,湖南都市
-http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hnds
-#EXTINF:-1,湖南娱乐
-http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hnyl
-#EXTINF:-1,湖南电视剧
-http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hndsj
-#EXTINF:-1,湖南公共
-http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hngg
-#EXTINF:-1,湖南国际
-http://player.ioioz.com/1369/hunan/mgtvm3u8.php?id=hngj
 #EXTINF:-1,石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1,通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1,顺义电视台
 http://hls234.dszbdq.cn/v/d/bj.php?id=bjsy
-#EXTINF:-1,南国都市
-http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzngds
+#EXTINF:-1,凤凰卫视
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://124.238.99.44:808/hls/348/index.m3u8
 #EXTINF:-1,凤凰香港
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1,星空卫视
@@ -193,13 +185,19 @@ http://ls.qingting.fm/live/2131011.m3u8
 http://ls.qingting.fm/live/2507637.m3u8
 #EXTINF:-1,radio=true,爱乐数字音乐广播
 http://live.xmcdn.com/live/1661/64.m3u8
-#EXTINF:-1,radio=true,广东音乐之声
-http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
 #EXTINF:-1,radio=true,Hit FM 广州
 http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1,radio=true,Hit FM
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8 #http://sk.cri.cn/887.m3u8
-#EXTINF:-1,radio=true,Easy FM
+#EXTINF:-1,radio=true,EZFM
 http://sk.cri.cn/915.m3u8
+#EXTINF:-1,radio=true,环球资讯广播
+http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1,radio=true,China Plus
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1,radio=true,中文环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,radio=true,南海之声
+http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1,radio=true,民乐
 http://satellitepull.cnr.cn/live/wxdjy/playlist.m3u8
