@@ -48,7 +48,7 @@ http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3
 #EXTINF:-1,东方卫视
 http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8 #http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8 #http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8 #http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1,深圳卫视
-http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/szwshd/2300000/mnf.m3u8
 #EXTINF:-1,云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8 #http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1,安徽卫视
@@ -58,7 +58,7 @@ http://womlive.cloud.wo.cn/tvlive/100004/otpzod_otpzod,100004_hls_pull_2000K_liv
 #EXTINF:-1,山东卫视
 http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226244/1.m3u8 @http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8 #http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1,重庆卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225745/index.m3u8 #http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
 #EXTINF:-1,黑龙江卫视
 http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8 #http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226239/1.m3u8
 #EXTINF:-1,海南卫视
@@ -167,8 +167,12 @@ http://womlive.cloud.wo.cn/tvlive/100096/otpzod_otpzod,100096_hls_pull_2000K_liv
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://124.238.99.44:808/hls/348/index.m3u8
 #EXTINF:-1,凤凰香港
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1,凤凰电影
+http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 #EXTINF:-1,星空卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1 #http://218.202.220.2:5000/nn_live.m3u8?id=STARTV #http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1,HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1,radio=true,北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8 #http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京城市广播
