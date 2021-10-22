@@ -56,7 +56,7 @@ http://womlive.cloud.wo.cn/tvlive/100013/otpzod_otpzod,100013_hls_pull_2000K_liv
 #EXTINF:-1,辽宁卫视
 http://womlive.cloud.wo.cn/tvlive/100004/otpzod_otpzod,100004_hls_pull_2000K_live.m3u8
 #EXTINF:-1,山东卫视
-http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226244/1.m3u8 @http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8 #http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226244/1.m3u8 #http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8 #http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1,重庆卫视
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
 #EXTINF:-1,黑龙江卫视
@@ -137,20 +137,6 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/2300000/mnf.m3u8
 #EXTINF:-1,外语频道
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/wypdhd/2300000/mnf.m3u8
-#EXTINF:-1,上海教视
-http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-#EXTINF:-1,新闻频道
-http://784040932.tk/tv/?id=346
-#EXTINF:-1,政法频道
-http://784040932.tk/tv/?id=348
-#EXTINF:-1,影视频道
-http://784040932.tk/tv/?id=350
-#EXTINF:-1,石景山电视台
-http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1,通州电视台
-http://pull.dayuntongzhou.com/live/tztv.m3u8
-#EXTINF:-1,顺义电视台
-http://hls234.dszbdq.cn/v/d/bj.php?id=bjsy
 #EXTINF:-1,广州综合
 http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
 #EXTINF:-1,广州新闻
@@ -163,16 +149,18 @@ http://womlive.cloud.wo.cn/tvlive/100087/otpzod_otpzod,100087_hls_pull_2000K_liv
 http://womlive.cloud.wo.cn/tvlive/100088/otpzod_otpzod,100088_hls_pull_2000K_live.m3u8
 #EXTINF:-1,郑州教育
 http://womlive.cloud.wo.cn/tvlive/100096/otpzod_otpzod,100096_hls_pull_2000K_live.m3u8
+#EXTINF:-1,新闻频道
+http://784040932.tk/tv/?id=346
+#EXTINF:-1,政法频道
+http://784040932.tk/tv/?id=348
+#EXTINF:-1,影视频道
+http://784040932.tk/tv/?id=350
 #EXTINF:-1,凤凰卫视
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8#http://124.238.99.44:808/hls/348/index.m3u8
 #EXTINF:-1,凤凰香港
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1,凤凰电影
 http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-#EXTINF:-1,星空卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1 #http://218.202.220.2:5000/nn_live.m3u8?id=STARTV #http://218.202.220.2:5000/nn_live.ts?id=STARTV
-#EXTINF:-1,HBO
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1,radio=true,北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8 #http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,北京城市广播
@@ -193,27 +181,27 @@ http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
 http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,京津冀之声
 http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
+#EXTINF:-1,radio=true,Hit FM GZ
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1,radio=true,经典音乐广播
 https://live.funhillrm.com/aac_3/sd/live.m3u8
+#EXTINF:-1,radio=true,顺义人民广播电台
+http://pili-live-hls.livesydst.sobeycache.com/livesydst/gb01.m3u8
 #EXTINF:-1,radio=true,FM95.9
 http://ls.qingting.fm/live/2131011.m3u8
 #EXTINF:-1,radio=true,阳光调频
 http://ls.qingting.fm/live/2507637.m3u8
 #EXTINF:-1,radio=true,爱乐数字音乐广播
 http://live.xmcdn.com/live/1661/64.m3u8
-#EXTINF:-1,radio=true,Hit FM 广州
-http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1,radio=true,Hit FM
-http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8 #http://sk.cri.cn/887.m3u8
+http://sk.cri.cn/887.m3u8 #http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 #EXTINF:-1,radio=true,EZFM
 http://sk.cri.cn/915.m3u8
 #EXTINF:-1,radio=true,环球资讯广播
-http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8 #http://sk.cri.cn/905.m3u8
 #EXTINF:-1,radio=true,China Plus
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,radio=true,中文环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1,radio=true,南海之声
-http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1,radio=true,民乐
 http://satellitepull.cnr.cn/live/wxdjy/playlist.m3u8
