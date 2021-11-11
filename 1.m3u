@@ -20,7 +20,7 @@ http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8 #http://playtv-live.ifeng.co
 #EXTINF:-1,北京冬奥纪实
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8 #http://223.110.241.133:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi #
 #EXTINF:-1,北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8 #http://womlive.cloud.wo.cn/tvlive/100006/otpzod_otpzod,100006_hls_pull_2000K_live.m3u8
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8 #http://womlive.cloud.wo.cn/tvlive/100006.m3u8
 #EXTINF:-1,北京文艺
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
 #EXTINF:-1,北京科教
@@ -40,47 +40,47 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #EXTINF:-1,北京国际
 http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
 #EXTINF:-1,湖南卫视
-http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8 #http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8 #http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8 #http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1,江苏卫视
-http://womlive.cloud.wo.cn/tvlive/100011/otpzod_otpzod,100011_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100011.m3u8
 #EXTINF:-1,浙江卫视
-http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3u8 #http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 #EXTINF:-1,东方卫视
-http://womlive.cloud.wo.cn/tvlive/100012/otpzod_otpzod,100012_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100012.m3u8
 #EXTINF:-1,深圳卫视
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/szwshd/2300000/mnf.m3u8
 #EXTINF:-1,云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8 #http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1,安徽卫视
-http://womlive.cloud.wo.cn/tvlive/100013/otpzod_otpzod,100013_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100013.m3u8
 #EXTINF:-1,辽宁卫视
-http://womlive.cloud.wo.cn/tvlive/100004/otpzod_otpzod,100004_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100004.m3u8
 #EXTINF:-1,山东卫视
-http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226244/1.m3u8 #http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8 #http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1,重庆卫视
-http://womlive.cloud.wo.cn/tvlive/100018/otpzod_otpzod,100018_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100018.m3u8
 #EXTINF:-1,黑龙江卫视
-http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8 #http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226239/1.m3u8
+http://womlive.cloud.wo.cn/tvlive/100003.m3u8
 #EXTINF:-1,海南卫视
-http://womlive.cloud.wo.cn/tvlive/100022/otpzod_otpzod,100022_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100022.m3u8
 #EXTINF:-1,贵州卫视
-http://womlive.cloud.wo.cn/tvlive/100019/otpzod_otpzod,100019_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100019.m3u8
 #EXTINF:-1,四川卫视
 http://60.255.49.202/live/scwsH265_4000.m3u8
 #EXTINF:-1,江西卫视
 http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8 #http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1,天津卫视
-http://womlive.cloud.wo.cn/tvlive/100007/otpzod_otpzod,100007_hls_pull_2000K_live.m3u8 
+http://womlive.cloud.wo.cn/tvlive/100007.m3u8 
 #EXTINF:-1,广西卫视
-http://womlive.cloud.wo.cn/tvlive/100021/otpzod_otpzod,100021_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100021.m3u8
 #EXTINF:-1,河南卫视
-http://womlive.cloud.wo.cn/tvlive/100009/otpzod_otpzod,100009_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100009.m3u8
 #EXTINF:-1,广东卫视
-http://womlive.cloud.wo.cn/tvlive/100020/otpzod_otpzod,100020_hls_pull_2000K_live.m3u8 
+http://womlive.cloud.wo.cn/tvlive/100020.m3u8 
 #EXTINF:-1,吉林卫视
-http://womlive.cloud.wo.cn/tvlive/100005/otpzod_otpzod,100005_hls_pull_2000K_live.m3u8 
+http://womlive.cloud.wo.cn/tvlive/100005.m3u8 
 #EXTINF:-1,东南卫视
-http://womlive.cloud.wo.cn/tvlive/100014/otpzod_otpzod,100014_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100014.m3u8
 #EXTINF:-1,湖北卫视
 http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8 #http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
 #EXTINF:-1,陕西卫视
@@ -94,19 +94,19 @@ http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1,山东教育
 https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 #EXTINF:-1,河北卫视
-http://womlive.cloud.wo.cn/tvlive/100008/otpzod_otpzod,100008_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100008.m3u8
 #EXTINF:-1,山西卫视
 http://live1.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiTV&start=0&provider=www.tvmining.com
 #EXTINF:-1,内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1,新疆卫视
-http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8 #http://womlive.cloud.wo.cn/tvlive/100027/otpzod_otpzod,100027_hls_pull_2000K_live.m3u8 #http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8 #http://womlive.cloud.wo.cn/tvlive/100027.m3u8 #http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1,西藏卫视
-http://womlive.cloud.wo.cn/tvlive/100026/otpzod_otpzod,100026_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100026.m3u8
 #EXTINF:-1,厦门卫视
 http://xiamencncc.v.wscdns.com/chylh/zzxmt_1/index.m3u8 #http://183.207.248.71:80/cntv/live1/SD-4000k-576P-xiamenstv/SD-4000k-576P-xiamenstv
 #EXTINF:-1,兵团卫视
-http://womlive.cloud.wo.cn/tvlive/100023/otpzod_otpzod,100023_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100023.m3u8
 #EXTINF:-1,延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1,三沙卫视
@@ -138,17 +138,17 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/2300000/mn
 #EXTINF:-1,外语频道
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/wypdhd/2300000/mnf.m3u8
 #EXTINF:-1,广州综合
-http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100084.m3u8
 #EXTINF:-1,广州新闻
-http://womlive.cloud.wo.cn/tvlive/100085/otpzod_otpzod,100085_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100085.m3u8
 #EXTINF:-1,广州影视
-http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100086.m3u8
 #EXTINF:-1,广州法治
-http://womlive.cloud.wo.cn/tvlive/100087/otpzod_otpzod,100087_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100087.m3u8
 #EXTINF:-1,广州竞赛
-http://womlive.cloud.wo.cn/tvlive/100088/otpzod_otpzod,100088_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100088.m3u8
 #EXTINF:-1,郑州教育
-http://womlive.cloud.wo.cn/tvlive/100096/otpzod_otpzod,100096_hls_pull_2000K_live.m3u8
+http://womlive.cloud.wo.cn/tvlive/100096.m3u8
 #EXTINF:-1,新闻频道
 http://784040932.tk/tv/?id=346
 #EXTINF:-1,政法频道
