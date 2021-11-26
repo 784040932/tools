@@ -165,41 +165,41 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/2300000/mnf.m3u8
 http://124.238.99.44:808/hls/353/index.m3u8
 #EXTINF:-1,凤凰电影
 http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-#EXTINF:-1,radio=true,FM94.5 北京新闻广播
+#EXTINF:-1,radio=true,FM945 北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8 #http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM107.3 北京城市广播
+#EXTINF:-1,radio=true,FM1073 北京城市广播
 http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM95.4 北京故事广播
+#EXTINF:-1,radio=true,FM954 北京故事广播
 http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM102.5 北京体育广播
+#EXTINF:-1,radio=true,FM1025 北京体育广播
 http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM97.4 北京音乐广播
+#EXTINF:-1,radio=true,FM974 北京音乐广播
 http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM103.9 北京交通广播
+#EXTINF:-1,radio=true,FM1039 北京交通广播
 http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM87.6 北京文艺广播
+#EXTINF:-1,radio=true,FM876 北京文艺广播
 http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM92.3 北京外语广播
+#EXTINF:-1,radio=true,FM923 北京外语广播
 http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM98.2 北京青年广播
+#EXTINF:-1,radio=true,FM982 北京青年广播
 http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM100.6 京津冀之声
+#EXTINF:-1,radio=true,FM1006 京津冀之声
 http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM88.7 Hit FM
+#EXTINF:-1,radio=true,FM887 Hit FM
 rtmp://satellitepull.cnr.cn/live/wxgjlxyy #http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
-#EXTINF:-1,radio=true,FM96.9 经典音乐广播
+#EXTINF:-1,radio=true,FM969 经典音乐广播
 https://live.funhillrm.com/aac_3/sd/live.m3u8
-#EXTINF:-1,radio=true,FM92.9 顺义人民广播电台
+#EXTINF:-1,radio=true,FM929 顺义人民广播电台
 http://pili-live-hls.livesydst.sobeycache.com/livesydst/gb01.m3u8
-#EXTINF:-1,radio=true,FM88.5 Hit FM
+#EXTINF:-1,radio=true,FM885 Hit FM
 rtmp://satellitepull.cnr.cn/live/wxhitfm #http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1,radio=true,FM90.5 环球资讯广播
+#EXTINF:-1,radio=true,FM905 环球资讯广播
 rtmp://satellitepull.cnr.cn/live/wxhqzx01 #http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1,radio=true,民乐
 http://satellitepull.cnr.cn/live/wxdjy/playlist.m3u8
-#EXTINF:-1,radio=true,FM95.9
+#EXTINF:-1,radio=true,FM959
 http://ls.qingting.fm/live/2131011.m3u8
-#EXTINF:-1,radio=true,FM98.6 阳光调频
+#EXTINF:-1,radio=true,FM986 阳光调频
 http://ls.qingting.fm/live/2507637.m3u8
-#EXTINF:-1,radio=true,FM98.1 爱乐数字音乐广播
+#EXTINF:-1,radio=true,FM981 爱乐数字音乐广播
 http://live.xmcdn.com/live/1661/64.m3u8
