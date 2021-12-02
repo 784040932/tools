@@ -17,28 +17,28 @@ http://pull.dayuntongzhou.com/live/tztv.m3u8
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 #http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8 #http://124.238.99.44:808/hls/348/index.m3u8
 #EXTINF:-1,凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 #http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8 #http://124.238.99.44:808/hls/349/index.m3u8
-#EXTINF:-1,北京冬奥纪实
+#EXTINF:-1,冬奥纪实
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1,北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
-#EXTINF:-1,北京文艺
+#EXTINF:-1,BRTV文艺
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
-#EXTINF:-1,北京科教
+#EXTINF:-1,BRTV科教
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
-#EXTINF:-1,北京影视
+#EXTINF:-1,BRTV影视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
-#EXTINF:-1,北京财经
+#EXTINF:-1,BRTV财经
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
-#EXTINF:-1,北京生活
+#EXTINF:-1,BRTV生活
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
-#EXTINF:-1,北京青年
+#EXTINF:-1,BRTV青年
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
-#EXTINF:-1,北京新闻
+#EXTINF:-1,BRTV新闻
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-#EXTINF:-1,北京卡酷
+#EXTINF:-1,卡酷少儿
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-#EXTINF:-1,中国教育
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,金鹰纪实
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,东方卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/2300000/mnf.m3u8
 #EXTINF:-1,新闻综合
@@ -55,9 +55,9 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/2300000/mnf.m3u8
 #EXTINF:-1,五星体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/2300000/mnf.m3u8
-#EXTINF:-1,哈哈炫动
+#EXTINF:-1,哈哈炫动卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/2300000/mnf.m3u8
-#EXTINF:-1,上海ICS
+#EXTINF:-1,外语频道
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/2300000/mnf.m3u8
 #EXTINF:-1,湖南卫视
 http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
@@ -77,6 +77,10 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ahwshd/2300000/mnf.m3u8
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,山东卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/2300000/mnf.m3u8
+#EXTINF:-1,中国教育电视台-3
+http://111.63.77.70/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=HBYD
+#EXTINF:-1,中国教育电视台-1
+http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,重庆卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cqws/1300000/mnf.m3u8
 #EXTINF:-1,黑龙江卫视
@@ -99,7 +103,7 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/ind
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gdwshd/2300000/mnf.m3u8
 #EXTINF:-1,吉林卫视
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,东南卫视
+#EXTINF:-1,福建东南卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/2300000/mnf.m3u8
 #EXTINF:-1,湖北卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/2300000/mnf.m3u8
@@ -111,7 +115,7 @@ http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8 #http://www.nxtv.co
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1,甘肃卫视
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1,山东教育
+#EXTINF:-1,山东教育卫视
 https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 #EXTINF:-1,河北卫视
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
@@ -123,16 +127,18 @@ http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8
 http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1,西藏卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xzws/2500000/mnf.m3u8
-#EXTINF:-1,兵团卫视
-http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8 #http://shbu.live.bestvcdn.com.cn:8080/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1,中国教育电视台-4
+http://111.63.77.70/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV&area=HBYD
+#EXTINF:-1,中国教育电视台-2
+http://111.63.77.70/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV&area=HBYD
 #EXTINF:-1,厦门卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xmws/1300000/mnf.m3u8
-#EXTINF:-1,延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1,三沙卫视
 http://pull2.ssws.tv/live/SswsTV20210803.m3u8
-#EXTINF:-1,金鹰纪实
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8 #http://shbu.live.bestvcdn.com.cn:8080/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1,延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1,欢笑剧场
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/2300000/mnf.m3u8
 #EXTINF:-1,全纪实
@@ -167,26 +173,26 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
 http://124.238.99.44:808/hls/353/index.m3u8
 #EXTINF:-1,凤凰电影
 http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-#EXTINF:-1,radio=true,FM945 北京新闻广播
+#EXTINF:-1,radio=true,FM945 新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8 #http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM1073 北京城市广播
+#EXTINF:-1,radio=true,FM1073 城市广播
 http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM954 北京故事广播
+#EXTINF:-1,radio=true,FM954 故事广播
 http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM1025 北京体育广播
+#EXTINF:-1,radio=true,FM1025 体育广播
 http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM974 北京音乐广播
-http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM1039 北京交通广播
+#EXTINF:-1,radio=true,FM1039 交通广播
 http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM876 北京文艺广播
+#EXTINF:-1,radio=true,FM876 文艺广播
 http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM923 北京外语广播
-http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM982 北京青年广播
-http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+#EXTINF:-1,radio=true,FM974 音乐广播
+http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,FM1006 京津冀之声
 http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
+#EXTINF:-1,radio=true,FM923 外语广播
+http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
+#EXTINF:-1,radio=true,FM982 青年广播
+http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,FM887 Hit FM
 rtmp://satellitepull.cnr.cn/live/wxgjlxyy #http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 #EXTINF:-1,radio=true,FM969 经典音乐广播
