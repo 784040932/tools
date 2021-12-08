@@ -143,12 +143,8 @@ http://111.63.77.70/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV&area=HBYD
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1,石景山
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1,门头沟
-https://live4.itouchtv.cn:443/gehua/mtgxw.m3u8?auth_key=1638861773-0-0-88df86208daa7d60c87d112647669e2b
 #EXTINF:-1,怀柔
 https://pili-live-hls.huairtv.com/bjhr/hrxw.m3u8?sign=bf2fb5a8c8a7b0dfd3aeb2368781b849&t=61a9bcde url:https://bjhrapp.tianma3600.com/tvradio/Tvfront/getTvInfo?tv_id=9
-#EXTINF:-1,平谷
-https://live4.itouchtv.cn:443/gehua/pgxw.m3u8?auth_key=1638863322-0-0-6869b2a51ee028b49d60472ef2e03011
 #EXTINF:-1,欢笑剧场
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/2300000/mnf.m3u8
 #EXTINF:-1,全纪实
