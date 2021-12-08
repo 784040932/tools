@@ -9,10 +9,10 @@ http://784040932.tk/tv/?id=346
 http://784040932.tk/tv/?id=348
 #EXTINF:-1,长沙影视频道
 http://784040932.tk/tv/?id=350
-#EXTINF:-1,石景山
-http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1,顺义
+http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1 #http://livesydst.chinamcache.com/sydst/zb04.flv?auth_key=1633924026-0-0-057ea098f7b2e23eb163e09ae3c4db8d
 #EXTINF:-1,通州
-http://pull.dayuntongzhou.com/live/tztv.m3u8
+rtmp://pull.dayuntongzhou.com/live/tztv #http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1,凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 #http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8 #http://124.238.99.44:808/hls/348/index.m3u8
 #EXTINF:-1,凤凰资讯
@@ -82,7 +82,7 @@ http://111.63.77.70/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=HBYD
 #EXTINF:-1,中国教育电视台-1
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,重庆卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cqws/1300000/mnf.m3u8
+http://111.63.77.70/gitv_live/G_CHONGQING-HQ/G_CHONGQING-HQ.m3u8?p=GITV&area=HBYD
 #EXTINF:-1,黑龙江卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/2300000/mnf.m3u8
 #EXTINF:-1,海南卫视
@@ -90,13 +90,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1,贵州卫视
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,四川卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/scws/1300000/mnf.m3u8
+http://111.63.77.70/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8?p=GITV&area=HBYD
 #EXTINF:-1,江西卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jxwshd/2300000/mnf.m3u8
 #EXTINF:-1,天津卫视
 http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1,广西卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gxws/1300000/mnf.m3u8
+https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8 #http://39.130.202.81:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8 #http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gxws/1300000/mnf.m3u8
 #EXTINF:-1,河南卫视
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,广东卫视
@@ -108,7 +108,7 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/2300000/mnf.m3u8
 #EXTINF:-1,湖北卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/2300000/mnf.m3u8
 #EXTINF:-1,陕西卫视
-http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8
+http://stream.snrtv.com/sxbc-star-lmOQV0.m3u8
 #EXTINF:-1,宁夏卫视
 http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8 #http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
 #EXTINF:-1,青海卫视
@@ -137,8 +137,18 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xmws/1300000/mnf.m3u8
 http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 #EXTINF:-1,兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8 #http://shbu.live.bestvcdn.com.cn:8080/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1,金鹰卡通
+http://111.63.77.70/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV&area=HBYD
 #EXTINF:-1,延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1,石景山
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1,门头沟
+https://live4.itouchtv.cn:443/gehua/mtgxw.m3u8?auth_key=1638861773-0-0-88df86208daa7d60c87d112647669e2b
+#EXTINF:-1,怀柔
+https://pili-live-hls.huairtv.com/bjhr/hrxw.m3u8?sign=bf2fb5a8c8a7b0dfd3aeb2368781b849&t=61a9bcde url:https://bjhrapp.tianma3600.com/tvradio/Tvfront/getTvInfo?tv_id=9
+#EXTINF:-1,平谷
+https://live4.itouchtv.cn:443/gehua/pgxw.m3u8?auth_key=1638863322-0-0-6869b2a51ee028b49d60472ef2e03011
 #EXTINF:-1,欢笑剧场
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/2300000/mnf.m3u8
 #EXTINF:-1,全纪实
@@ -193,6 +203,8 @@ http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
 http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
 #EXTINF:-1,radio=true,FM982 青年广播
 http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+#EXTINF:-1,radio=true,FM1077 北京城市副中心调频广播
+rtmp://pull.dayuntongzhou.com/live/tzfm #http://pull.dayuntongzhou.com/live/tzfm.m3u8
 #EXTINF:-1,radio=true,FM887 Hit FM
 rtmp://satellitepull.cnr.cn/live/wxgjlxyy #http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 #EXTINF:-1,radio=true,FM969 经典音乐广播
