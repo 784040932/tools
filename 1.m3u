@@ -213,3 +213,7 @@ rtmp://satellitepull.cnr.cn/live/wxhitfm #http://satellitepull.cnr.cn/live/wxhit
 rtmp://satellitepull.cnr.cn/live/wxhqzx01 #http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1,radio=true,民乐
 http://satellitepull.cnr.cn/live/wxdjy/playlist.m3u8
+#EXTINF:-1,radio=true,测试(FM1039)
+http://784040932.tk/radio/?id=EOAonLJy7G&sign=020484f5674a8a10d585429f525dd7c0
+#EXTINF:-1,radio=true,测试(FM974)
+http://784040932.tk/radio/?id=R6gayOdeVM&sign=feedf796231dc2a4beda8b762787e0e6
