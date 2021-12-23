@@ -53,12 +53,12 @@ rtp://239.3.1.221:8001
 http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1 #http://livesydst.chinamcache.com/sydst/zb04.flv?auth_key=1633924026-0-0-057ea098f7b2e23eb163e09ae3c4db8d
 #EXTINF:-1,密云[27]
 rtp://239.3.1.154:8001
-#EXTINF:-1,大健康[28]
+#EXTINF:-1,清华大学电视台[28]
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1,大健康[29]
 rtp://239.3.1.251:8001
-#EXTINF:-1,纪实人文[29]
+#EXTINF:-1,纪实人文[30]
 rtp://239.3.1.212:8060
-#EXTINF:-1,金鹰纪实[30]
-rtp://239.3.1.58:8156
 #EXTINF:-1,湖南卫视[31]
 rtp://239.3.1.132:8012
 #EXTINF:-1,江苏卫视[32]
@@ -96,7 +96,7 @@ rtp://239.3.1.123:8164
 #EXTINF:-1,天津卫视[48]
 rtp://239.3.1.141:1234
 #EXTINF:-1,广西卫视[49]
-rtp://239.3.1.39:8300
+http://live-cdn.gxxw.com/tv/gxtvlive/index.m3u8 #rtp://239.3.1.39:8300
 #EXTINF:-1,河南卫视[50]
 rtp://239.3.1.27:8128
 #EXTINF:-1,广东卫视[51]
@@ -108,7 +108,7 @@ rtp://239.3.1.156:8148
 #EXTINF:-1,湖北卫视[54]
 rtp://239.3.1.138:8044
 #EXTINF:-1,陕西卫视[55]
-http://stream.snrtv.com/sxbc-star-lmOQV0.m3u8
+http://stream.snrtv.com/sxbc-star-AHVXZ2.m3u8
 #EXTINF:-1,宁夏卫视[56]
 http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8 #http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
 #EXTINF:-1,青海卫视[57]
@@ -141,24 +141,26 @@ rtp://239.3.1.155:4120
 rtp://239.3.1.144:4120
 #EXTINF:-1,延边卫视[71]
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1,茶频道[72]
+#EXTINF:-1,金鹰纪实[72]
+rtp://239.3.1.58:8156
+#EXTINF:-1,茶频道[73]
 rtp://239.3.1.165:8001
-#EXTINF:-1,快乐垂钓[73]
+#EXTINF:-1,快乐垂钓[74]
 rtp://239.3.1.164:8001
-#EXTINF:-1,南方卫视[74]
+#EXTINF:-1,南方卫视[75]
 rtp://239.3.1.161:8001
-#EXTINF:-1,嘉佳卡通[75]
+#EXTINF:-1,嘉佳卡通[76]
 rtp://239.3.1.147:9268
-#EXTINF:-1,长沙新闻频道[76]
+#EXTINF:-1,长沙新闻频道[77]
 http://784040932.tk/tv/?id=346
-#EXTINF:-1,长沙政法频道[77]
+#EXTINF:-1,长沙政法频道[78]
 http://784040932.tk/tv/?id=348
-#EXTINF:-1,长沙影视频道[78]
+#EXTINF:-1,长沙影视频道[79]
 http://784040932.tk/tv/?id=350
-#EXTINF:-1,星空卫视[79]
-http://124.238.99.44:808/hls/353/index.m3u8
-#EXTINF:-1,凤凰电影[80]
-http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+#EXTINF:-1,河南卫视4k超高清[80]
+http://218.29.135.2:4000/udp/225.1.4.254:1300
+#EXTINF:-1,南国都市4K超高清[81]
+https://aplay.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1,冬奥纪实
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1,北京卫视
