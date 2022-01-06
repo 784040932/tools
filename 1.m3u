@@ -86,19 +86,19 @@ rtp://239.3.1.122:8160
 #EXTINF:-1,黑龙江卫视[43]
 rtp://239.3.1.133:8016
 #EXTINF:-1,海南卫视[44]
-rtp://239.3.1.45:8304
+http://iptv.tvfix.org/hls/lyhd.m3u8 #rtp://239.3.1.45:8304
 #EXTINF:-1,贵州卫视[45]
 rtp://239.3.1.149:8076
 #EXTINF:-1,四川卫视[46]
-rtp://239.3.1.29:8288
+http://iptv.tvfix.org/hls/schd.m3u8 #rtp://239.3.1.29:8288
 #EXTINF:-1,江西卫视[47]
 rtp://239.3.1.123:8164
 #EXTINF:-1,天津卫视[48]
 rtp://239.3.1.141:1234
 #EXTINF:-1,广西卫视[49]
-http://live-cdn.gxxw.com/tv/gxtvlive/index.m3u8 #rtp://239.3.1.39:8300
+http://iptv.tvfix.org/hls/gxhd.m3u8 #rtp://239.3.1.39:8300
 #EXTINF:-1,河南卫视[50]
-rtp://239.3.1.27:8128
+http://iptv.tvfix.org/hls/hnhd.m3u8 #rtp://239.3.1.27:8128
 #EXTINF:-1,广东卫视[51]
 rtp://239.3.1.142:8048
 #EXTINF:-1,吉林卫视[52]
@@ -159,6 +159,22 @@ http://218.29.135.2:4000/udp/225.1.4.254:1300
 https://aplay.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1,北京大学电视台[80]
 http://stream.tv.pku.edu.cn/tv/sd/live.m3u8
+#EXTINF:-1,凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1,凤凰中文
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1,凤凰电影
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1,Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1,国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1,Star Sports
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1,星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1,Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1,BRTV冬奥纪实高清[26]
 rtp://239.3.1.243:8000
 #EXTINF:-1,BRTV冬奥纪实[126]
@@ -187,41 +203,29 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 #EXTINF:-1,卡酷少儿
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-#EXTINF:-1,radio=true,FM945 新闻广播
-http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8 #http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM1073 城市广播
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png",radio=true,FM945 新闻广播
+http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png",radio=true,FM1073 城市广播
 http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM954 故事广播
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/80/45/8045c4574afeb9d54216a0dd886a7b2e.png",radio=true,FM954 故事广播
 http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM1025 体育广播
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/c0/17/c01798add259570790dd12a123b81674.png",radio=true,FM1025 体育广播
 http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM1039 交通广播
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png",radio=true,FM1039 交通广播
 http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM876 文艺广播
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/01/e0/01e0ecc431332c970da282153b0cc52a.png",radio=true,FM876 文艺广播
 http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM974 音乐广播
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/5a/a8/5aa89f8793177cc4bb83ceb9ab47e403.png",radio=true,FM974 音乐广播
 http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM1006 京津冀之声
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/e8/01/e8011fde186eabcfa49b83e82f44d3c3.png",radio=true,FM1006 京津冀之声
 http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM923 外语广播
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/de/28/de2860ed7562b2d15861ead856d6fb01.png",radio=true,FM923 外语广播
 http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM982 青年广播
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/51/c1/51c12efc7988dd11e24d3b816da70ac6.png",radio=true,FM982 青年广播
 http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
-#EXTINF:-1,radio=true,FM1077 北京城市副中心调频广播
+#EXTINF:-1 tvg-logo="http://www.rbc.cn/_CMS_NEWS_IMG_/1/202005/28/80ce2920-a365-4944-948f-08e23146c275.jpg",radio=true,FM1077 北京城市副中心调频广播
 rtmp://pull.dayuntongzhou.com/live/tzfm #http://pull.dayuntongzhou.com/live/tzfm.m3u8
-#EXTINF:-1,radio=true,FM887 Hit FM
-rtmp://satellitepull.cnr.cn/live/wxgjlxyy #http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
-#EXTINF:-1,radio=true,FM969 经典音乐广播
-https://live.funhillrm.com/aac_3/sd/live.m3u8
-#EXTINF:-1,radio=true,FM929 顺义人民广播电台
-http://pili-live-hls.livesydst.sobeycache.com/livesydst/gb01.m3u8
-#EXTINF:-1,radio=true,FM885 Hit FM
-rtmp://satellitepull.cnr.cn/live/wxhitfm #http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1,radio=true,FM905 环球资讯广播
-rtmp://satellitepull.cnr.cn/live/wxhqzx01 #http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
-#EXTINF:-1,radio=true,民乐
-http://satellitepull.cnr.cn/live/wxdjy/playlist.m3u8
-#EXTINF:-1,radio=true,测试(FM1039)
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png",radio=true,FM1039 交通广播 [听听FM]
 http://784040932.tk/radio/?id=EOAonLJy7G&sign=020484f5674a8a10d585429f525dd7c0
-#EXTINF:-1,radio=true,测试(FM974)
+#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/5a/a8/5aa89f8793177cc4bb83ceb9ab47e403.png",radio=true,FM974 音乐广播 [听听FM]
 http://784040932.tk/radio/?id=R6gayOdeVM&sign=feedf796231dc2a4beda8b762787e0e6
