@@ -226,6 +226,6 @@ http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="http://www.rbc.cn/_CMS_NEWS_IMG_/1/202005/28/80ce2920-a365-4944-948f-08e23146c275.jpg",radio=true,FM1077 北京城市副中心调频广播
 rtmp://pull.dayuntongzhou.com/live/tzfm #http://pull.dayuntongzhou.com/live/tzfm.m3u8
 #EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png",radio=true,FM1039 交通广播 [听听FM]
-http://784040932.wicp.net/radio.php?id=EOAonLJy7G&sign=020484f5674a8a10d585429f525dd7c0
+http://yangjy.51vip.biz:18001/radio/?id=EOAonLJy7G&sign=020484f5674a8a10d585429f525dd7c0
 #EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/5a/a8/5aa89f8793177cc4bb83ceb9ab47e403.png",radio=true,FM974 音乐广播 [听听FM]
-http://784040932.wicp.net/radio.php?id=R6gayOdeVM&sign=feedf796231dc2a4beda8b762787e0e6
+http://yangjy.51vip.biz:18001/radio/?id=R6gayOdeVM&sign=feedf796231dc2a4beda8b762787e0e6
