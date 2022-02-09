@@ -18,25 +18,25 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 #https://playtv-live.ifen
 #EXTINF:-1,凤凰资讯[9]
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 #https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 #EXTINF:-1,BRTV冬奥纪实[10]
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8 #rtp://239.3.1.243:8000 #rtp://239.3.1.230:8000
 #EXTINF:-1,BRTV北京卫视[11]
-rtp://239.3.1.241:8000
+rtp://239.3.1.241:8000 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 #EXTINF:-1,BRTV文艺[12]
-rtp://239.3.1.242:8000
+rtp://239.3.1.242:8000 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
 #EXTINF:-1,BRTV科教[13]
-rtp://239.3.1.115:8000
+rtp://239.3.1.115:8000 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
 #EXTINF:-1,BRTV影视[14]
-rtp://239.3.1.158:8000
+rtp://239.3.1.158:8000 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
 #EXTINF:-1,BRTV财经[15]
-rtp://239.3.1.116:8000
+rtp://239.3.1.116:8000 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
 #EXTINF:-1,BRTV生活[16]
-rtp://239.3.1.117:8000
+rtp://239.3.1.117:8000 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
 #EXTINF:-1,BRTV青年[17]
-rtp://239.3.1.118:8000
+rtp://239.3.1.118:8000 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 #EXTINF:-1,BRTV新闻[18]
-rtp://239.3.1.159:8000
+rtp://239.3.1.159:8000 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 #EXTINF:-1,BRTV卡酷少儿[19]
-rtp://239.3.1.189:8000
+rtp://239.3.1.189:8000 #https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #EXTINF:-1,BTV国际频道[20]
 rtp://239.3.1.235:8000
 #EXTINF:-1,房山无线[21]
@@ -55,10 +55,10 @@ http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388e
 rtp://239.3.1.154:8001
 #EXTINF:-1,昌平[28]
 http://61.50.142.158/live/0.m3u8
-#EXTINF:-1,清华大学电视台[29]
+#EXTINF:-1,延庆[29]
+rtp://239.3.1.187:8001
+#EXTINF:-1,清华[30]
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-#EXTINF:-1,大健康[30]
-rtp://239.3.1.251:8001
 #EXTINF:-1,湖南卫视[31]
 rtp://239.3.1.132:8012
 #EXTINF:-1,江苏卫视[32]
@@ -153,12 +153,8 @@ rtp://239.3.1.161:8001
 rtp://239.3.1.147:9268
 #EXTINF:-1,延边卫视[77]
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1,河南卫视4k超高清[78]
-http://218.29.135.2:4000/udp/225.1.4.254:1300
-#EXTINF:-1,南国都市4K超高清[79]
-https://aplay.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1,北京大学电视台[80]
-http://stream.tv.pku.edu.cn/tv/sd/live.m3u8
+#EXTINF:-1,大厂[78]
+http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
 #EXTINF:-1,凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1,凤凰中文
@@ -175,36 +171,6 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1,Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1,大厂
-http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
-#EXTINF:-1,BRTV冬奥纪实高清[26]
-rtp://239.3.1.243:8000
-#EXTINF:-1,BRTV冬奥纪实[126]
-rtp://239.3.1.230:8000
-#EXTINF:-1,BRTV冬奥纪实4K[403]
-rtp://239.3.1.120:8000
-#EXTINF:-1,BRTV冬奥纪实4K[404]
-rtp://239.3.1.121:8000
-#EXTINF:-1,冬奥纪实
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
-#EXTINF:-1,北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
-#EXTINF:-1,BRTV文艺
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
-#EXTINF:-1,BRTV科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
-#EXTINF:-1,BRTV影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
-#EXTINF:-1,BRTV财经
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
-#EXTINF:-1,BRTV生活
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
-#EXTINF:-1,BRTV青年
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
-#EXTINF:-1,BRTV新闻
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-#EXTINF:-1,卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png",radio=true,FM945 新闻广播
 http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png",radio=true,FM1073 城市广播
