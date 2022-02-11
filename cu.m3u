@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,4K超清[1]
 rtp://239.3.1.249:8001
-#EXTINF:-1,淘精彩[2]
-rtp://239.3.1.178:8001
+#EXTINF:-1,BRTV冬奥纪实8K[2]
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8 #淘精彩rtp://239.3.1.178:8001
 #EXTINF:-1,萌宠TV[3]
 rtp://239.3.1.102:8001
 #EXTINF:-1,淘Baby[4]
