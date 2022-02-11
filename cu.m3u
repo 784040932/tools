@@ -153,24 +153,26 @@ rtp://239.3.1.161:8001
 rtp://239.3.1.147:9268
 #EXTINF:-1,延边卫视[77]
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1,大厂[78]
-http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
-#EXTINF:-1,凤凰资讯
-http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1,凤凰中文
-http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1,凤凰电影
-http://iptv.tvfix.org/hls/fhdy.m3u8 #http://live.scuec.edu.cn:8080/hls/fhdy.m3u8
-#EXTINF:-1,Discovery
-http://iptv.tvfix.org/hls/discovery.m3u8 #http://live.scuec.edu.cn:8080/hls/discovery.m3u8
-#EXTINF:-1,国家地理
-http://iptv.tvfix.org/hls/natlgeo.m3u8 #http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
-#EXTINF:-1,Star Sports
-http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1,星空卫视
-http://iptv.tvfix.org/hls/startv.m3u8 #http://live.scuec.edu.cn:8080/hls/startv.m3u8
-#EXTINF:-1,Channel V
-http://iptv.tvfix.org/hls/channelv.m3u8 #http://live.scuec.edu.cn:8080/hls/channelv.m3u8
+#EXTINF:-1,凤凰中文HD[78]
+http://live.scuec.edu.cn:8080/hls/fhzwhd.m3u8
+#EXTINF:-1,凤凰资讯HD[79]
+http://live.scuec.edu.cn:8080/hls/fhzxhd.m3u8
+#EXTINF:-1,凤凰中文[80]
+http://live.scuec.edu.cn:8080/hls/fhzw.m3u8 #http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1,凤凰资讯[81]
+http://live.scuec.edu.cn:8080/hls/fhzx.m3u8 #http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1,凤凰电影[82]
+http://live.scuec.edu.cn:8080/hls/fhdy.m3u8 #http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1,星空卫视[83]
+http://live.scuec.edu.cn:8080/hls/startv.m3u8 #http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1,Channel V[84]
+http://live.scuec.edu.cn:8080/hls/channelv.m3u8 #http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1,Discovery[85]
+http://live.scuec.edu.cn:8080/hls/discovery.m3u8 #http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1,国家地理[86]
+http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8 #http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1,Star Sports[87]
+http://live.scuec.edu.cn:8080/hls/starsports.m3u8 #http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png",radio=true,FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png",radio=true,FM1073 城市广播
