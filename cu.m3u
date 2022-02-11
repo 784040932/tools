@@ -70,7 +70,7 @@ rtp://239.3.1.136:8032
 #EXTINF:-1,深圳卫视[35]
 rtp://239.3.1.134:8020
 #EXTINF:-1,云南卫视[36]
-http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221228169/index.m3u8
+http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221228169/index.m3u8 #rtp://239.3.1.26:8108
 #EXTINF:-1,安徽卫视[37]
 rtp://239.3.1.211:8064
 #EXTINF:-1,辽宁卫视[38]
@@ -110,11 +110,11 @@ rtp://239.3.1.138:8044
 #EXTINF:-1,陕西卫视[55]
 rtp://239.3.1.41:8140
 #EXTINF:-1,宁夏卫视[56]
-http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8 #http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8 #http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6 #rtp://239.3.1.26:8108
 #EXTINF:-1,青海卫视[57]
-http://live.geermurmt.com/qhws/sd/live.m3u8
+http://live.geermurmt.com/qhws/sd/live.m3u8 #rtp://239.3.1.44:8184
 #EXTINF:-1,甘肃卫视[58]
-http://39.134.35.214/PLTV/88888888/224/3221226240/index.m3u8
+http://39.134.35.214/PLTV/88888888/224/3221226240/index.m3u8 #rtp://239.3.1.49:8188
 #EXTINF:-1,山东教育卫视[59]
 rtp://239.3.1.52:4120
 #EXTINF:-1,河北卫视[60]
@@ -122,9 +122,9 @@ rtp://239.3.1.148:8072
 #EXTINF:-1,山西卫视[61]
 http://liveflash.sxrtv.com/live/sxwshd.m3u8 #rtp://239.3.1.42:8172
 #EXTINF:-1,内蒙古卫视[62]
-http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8
+http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8 #rtp://239.3.1.43:8176
 #EXTINF:-1,新疆卫视[63]
-http://183.207.248.71/gitv/live1/G_XINJIANG/G_XINJIANG
+rtp://239.3.1.48:8160
 #EXTINF:-1,西藏卫视[64]
 rtp://239.3.1.47:8164
 #EXTINF:-1,中国教育电视台-4[65]
