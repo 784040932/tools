@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,测试(中南民族大学)
+http://live.scuec.edu.cn:8080/hls/btv1hd.m3u8
 #EXTINF:-1 ,测试(黑龙江移动)
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 ,测试(鸡西移动)
