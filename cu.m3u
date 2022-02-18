@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1,4K超清[1]
-rtp://239.3.1.249:8001
-#EXTINF:-1,淘精彩[2]
+#EXTINF:-1,淘精彩[1]
 rtp://239.3.1.178:8001
-#EXTINF:-1,萌宠TV[3]
+#EXTINF:-1,萌宠TV[2]
 rtp://239.3.1.102:8001
-#EXTINF:-1,淘Baby[4]
+#EXTINF:-1,淘Baby[3]
 rtp://239.3.1.238:8001
-#EXTINF:-1,淘剧场[5]
+#EXTINF:-1,淘剧场[4]
 rtp://239.3.1.95:8001
-#EXTINF:-1,淘电影[6]
+#EXTINF:-1,淘电影[5]
 rtp://239.3.1.250:8001
-#EXTINF:-1,淘娱乐[7]
+#EXTINF:-1,淘娱乐[6]
 rtp://239.3.1.100:8001
+#EXTINF:-1,4K超清[7]
+rtp://239.3.1.249:8001
 #EXTINF:-1,凤凰中文[8]
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 #https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1,凤凰资讯[9]
