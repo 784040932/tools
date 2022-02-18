@@ -193,3 +193,13 @@ http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1,通州
 http://pull.dayuntongzhou.com/live/tztv.m3u8
+#EXTINF:-1,房山无线
+http://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1,房山有线
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1,石景山
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1,顺义
+http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
+#EXTINF:-1,清华
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
