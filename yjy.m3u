@@ -60,7 +60,7 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png",CCTV-4 中文国际 美洲
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/608807416
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
-http://iptv.tvfix.org/hls/cctv16hd.m3u8
+http://iptv.tvfix.org/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
 http://iptv.tvfix.org/hls/jshd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
