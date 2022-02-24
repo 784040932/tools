@@ -187,6 +187,44 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1,CCTV-1HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
+#EXTINF:-1,CCTV-2HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
+#EXTINF:-1,CCTV-3HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
+#EXTINF:-1,CCTV-4HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
+#EXTINF:-1,CCTV-5HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
+#EXTINF:-1,CCTV-5+HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
+#EXTINF:-1,CCTV-6HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8
+#EXTINF:-1,CCTV-7HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
+#EXTINF:-1,CCTV-8HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8
+#EXTINF:-1,CCTV-9HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8
+#EXTINF:-1,CCTV-10HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
+#EXTINF:-1,CCTV-11HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
+#EXTINF:-1,CCTV-12HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8
+#EXTINF:-1,CCTV-13HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
+#EXTINF:-1,CCTV-14HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8
+#EXTINF:-1,CCTV-15HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
+#EXTINF:-1,CCTV-16HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
+#EXTINF:-1,CCTV-17HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
+#EXTINF:-1,北京卫视HD [备用测试]
+http://gdctcc-livod.ali.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
 #EXTINF:-1,通州
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1,房山无线
