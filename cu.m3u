@@ -58,7 +58,7 @@ http://61.50.142.158/live/0.m3u8
 #EXTINF:-1,延庆[29]
 rtp://239.3.1.187:8001
 #EXTINF:-1,清华[30]
-http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8 #rtp://239.3.1.251:8001
 #EXTINF:-1,湖南卫视[31]
 rtp://239.3.1.132:8012
 #EXTINF:-1,江苏卫视[32]
@@ -70,7 +70,7 @@ rtp://239.3.1.136:8032
 #EXTINF:-1,深圳卫视[35]
 rtp://239.3.1.134:8020
 #EXTINF:-1,云南卫视[36]
-http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221228169/index.m3u8 #rtp://239.3.1.26:8108
+rtp://239.3.1.26:8108
 #EXTINF:-1,安徽卫视[37]
 rtp://239.3.1.211:8064
 #EXTINF:-1,辽宁卫视[38]
@@ -110,7 +110,7 @@ rtp://239.3.1.138:8044
 #EXTINF:-1,陕西卫视[55]
 rtp://239.3.1.41:8140
 #EXTINF:-1,宁夏卫视[56]
-http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8 #http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6 rtp://239.3.1.26:8108
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6 rtp://239.3.1.26:8108
 #EXTINF:-1,青海卫视[57]
 http://live.geermurmt.com/qhws/sd/live.m3u8 #rtp://239.3.1.44:8184
 #EXTINF:-1,甘肃卫视[58]
@@ -152,21 +152,21 @@ rtp://239.3.1.161:8001
 #EXTINF:-1,嘉佳卡通[76]
 rtp://239.3.1.147:9268
 #EXTINF:-1,凤凰中文[77]
-http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
+http://iptv.tvfix.org/hls/fhzw.m3u8 #http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
 #EXTINF:-1,凤凰资讯[78]
-http://live.scuec.edu.cn:8080/hls/fhzx.m3u8
+http://iptv.tvfix.org/hls/fhzx.m3u8 #http://live.scuec.edu.cn:8080/hls/fhzx.m3u8
 #EXTINF:-1,凤凰电影[79]
-http://live.scuec.edu.cn:8080/hls/fhdy.m3u8 #http://iptv.tvfix.org/hls/fhdy.m3u8
+http://iptv.tvfix.org/hls/fhdy.m3u8 #http://live.scuec.edu.cn:8080/hls/fhdy.m3u8 #http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1,星空卫视[80]
-http://live.scuec.edu.cn:8080/hls/startv.m3u8 #http://iptv.tvfix.org/hls/startv.m3u8
+http://iptv.tvfix.org/hls/startv.m3u8 #http://live.scuec.edu.cn:8080/hls/startv.m3u8 #http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1,Channel V[81]
-http://live.scuec.edu.cn:8080/hls/channelv.m3u8 #http://iptv.tvfix.org/hls/channelv.m3u8
+http://iptv.tvfix.org/hls/channelv.m3u8 #http://live.scuec.edu.cn:8080/hls/channelv.m3u8 #http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1,Discovery[82]
-http://live.scuec.edu.cn:8080/hls/discovery.m3u8 #http://iptv.tvfix.org/hls/discovery.m3u8
+http://iptv.tvfix.org/hls/discovery.m3u8 #http://live.scuec.edu.cn:8080/hls/discovery.m3u8 #http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1,国家地理[83]
-http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8 #http://iptv.tvfix.org/hls/natlgeo.m3u8
+http://iptv.tvfix.org/hls/natlgeo.m3u8 #http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8 #http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1,Star Sports[84]
-http://live.scuec.edu.cn:8080/hls/starsports.m3u8 #http://iptv.tvfix.org/hls/starsports.m3u8
+http://iptv.tvfix.org/hls/starsports.m3u8 #http://live.scuec.edu.cn:8080/hls/starsports.m3u8 #http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png",radio=true,FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png",radio=true,FM1073 城市广播
