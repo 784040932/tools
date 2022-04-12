@@ -1,144 +1,144 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV文艺
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
+http://71pull.btvcloud.com/brtv2021channel/2021kjchannellive3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV财经
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV冬奥纪实
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV生活
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV青年
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV新闻
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1 综合
-http://v.mp.haue.edu.cn/hls/cctv1hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2 财经
-http://v.mp.haue.edu.cn/hls/cctv2hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3 综艺
-http://v.mp.haue.edu.cn/hls/cctv3hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4 中文国际
-http://v.mp.haue.edu.cn/hls/cctv4hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5 体育
-http://v.mp.haue.edu.cn/hls/cctv5hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6 电影
-http://v.mp.haue.edu.cn/hls/cctv6hd.m3u8
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7 国防军事
-http://v.mp.haue.edu.cn/hls/cctv7hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8 电视剧
-http://v.mp.haue.edu.cn/hls/cctv8hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9 纪录
-http://v.mp.haue.edu.cn/hls/cctv9hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10 科教
-http://v.mp.haue.edu.cn/hls/cctv10hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11 戏曲
-http://iptv.tvfix.org/hls/cctv11hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12 社会与法
-http://v.mp.haue.edu.cn/hls/cctv12hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13 新闻
-http://v.mp.haue.edu.cn/hls/cctv13hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿
-http://v.mp.haue.edu.cn/hls/cctv14hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15 音乐
-http://iptv.tvfix.org/hls/cctv15hd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16 奥林匹克
-http://iptv.tvfix.org/hls/cctv16hd.m3u8
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17 农业农村
-http://v.mp.haue.edu.cn/hls/cctv17hd.m3u8
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+ 体育赛事
-http://v.mp.haue.edu.cn/hls/cctv5phd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png",CCTV-4 中文国际 欧洲
 http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png",CCTV-4 中文国际 美洲
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/608807416
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
-http://v.mp.haue.edu.cn/hls/hunanhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
-http://v.mp.haue.edu.cn/hls/jshd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
-http://v.mp.haue.edu.cn/hls/zjhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
-http://v.mp.haue.edu.cn/hls/dfhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视
-http://v.mp.haue.edu.cn/hls/szhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视
-http://v.mp.haue.edu.cn/hls/yntv.m3u8
+http://iptv.tvfix.org/hls/yntv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
-http://v.mp.haue.edu.cn/hls/ahhd.m3u8
+http://iptv.tvfix.org/hls/ahhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
-http://v.mp.haue.edu.cn/hls/lnhd.m3u8
+http://iptv.tvfix.org/hls/lnhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
-http://v.mp.haue.edu.cn/hls/sdhd.m3u8
+http://iptv.tvfix.org/hls/sdhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png",中国教育电视台-3
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/649531756
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育电视台-1
-http://v.mp.haue.edu.cn/hls/cetv1hd.m3u8
+http://iptv.tvfix.org/hls/cetv1hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
-http://v.mp.haue.edu.cn/hls/cqhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
-http://v.mp.haue.edu.cn/hls/hljhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png",海南卫视
-http://v.mp.haue.edu.cn/hls/lyhd.m3u8
+http://iptv.tvfix.org/hls/lyhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
-http://v.mp.haue.edu.cn/hls/gzhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视
-http://v.mp.haue.edu.cn/hls/schd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
-http://v.mp.haue.edu.cn/hls/jxhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视
-http://v.mp.haue.edu.cn/hls/tjhd.m3u8
+http://iptv.tvfix.org/hls/tjhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png",广西卫视
-http://v.mp.haue.edu.cn/hls/gxhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
-http://v.mp.haue.edu.cn/hls/hnhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
-http://v.mp.haue.edu.cn/hls/gdhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
-http://v.mp.haue.edu.cn/hls/jlhd.m3u8
+http://iptv.tvfix.org/hls/jlhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
-http://v.mp.haue.edu.cn/hls/dnhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
-http://v.mp.haue.edu.cn/hls/hbhd.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
-http://v.mp.haue.edu.cn/hls/sxtv.m3u8
+http://iptv.tvfix.org/hls/sxtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视
-http://v.mp.haue.edu.cn/hls/nxtv.m3u8
+http://iptv.tvfix.org/hls/nxtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
+http://iptv.tvfix.org/hls/qhtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
-http://v.mp.haue.edu.cn/hls/gstv.m3u8
+http://iptv.tvfix.org/hls/gstv.m3u8
 #EXTINF:-1 tvg-logo="http://www.sdetv.com.cn/favicon.ico",山东教育
-http://v.mp.haue.edu.cn/hls/sdetv.m3u8
+http://iptv.tvfix.org/hls/sdetv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
-http://v.mp.haue.edu.cn/hls/hebhd.m3u8
+http://iptv.tvfix.org/hls/hebhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
 http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视
-http://v.mp.haue.edu.cn/hls/xjtv.m3u8
+http://iptv.tvfix.org/hls/xjtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
-http://v.mp.haue.edu.cn/hls/xztv.m3u8
+http://iptv.tvfix.org/hls/xztv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png",中国教育电视台-4
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/649531725
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png",中国教育电视台-2
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/649532169
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png",厦门卫视
-http://v.mp.haue.edu.cn/hls/xmtv.m3u8
+http://39.135.55.7:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png",金鹰卡通
-http://v.mp.haue.edu.cn/hls/jykttv.m3u8
+http://iptv.tvfix.org/hls/jykttv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png",三沙卫视
 http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png",兵团卫视
-http://v.mp.haue.edu.cn/hls/bttv.m3u8
+http://iptv.tvfix.org/hls/bttv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png",南方卫视
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/608917627
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png",延边卫视
@@ -146,31 +146,53 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png",嘉佳卡通
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/608917627
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",纪实人文
-http://v.mp.haue.edu.cn/hls/docuchina.m3u8
+http://iptv.tvfix.org/hls/docuchina.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
-http://v.mp.haue.edu.cn/hls/gedocu.m3u8
+http://iptv.tvfix.org/hls/gedocu.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",CHC高清电影
-http://v.mp.haue.edu.cn/hls/chchd.m3u8
+http://iptv.tvfix.org/hls/chchd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作影院
-http://v.mp.haue.edu.cn/hls/chcatv.m3u8
+http://iptv.tvfix.org/hls/chcatv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://v.mp.haue.edu.cn/hls/chctv.m3u8
+http://iptv.tvfix.org/hls/chctv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
-http://v.mp.haue.edu.cn/hls/fhzw.m3u8
+http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://v.mp.haue.edu.cn/hls/fhzw.m3u8
+http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰电影
-http://v.mp.haue.edu.cn/hls/fhdy.m3u8
+http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1,Channel V
-http://v.mp.haue.edu.cn/hls/channelv.m3u8
+http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1,星空卫视
-http://v.mp.haue.edu.cn/hls/startv.m3u8
+http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
-http://v.mp.haue.edu.cn/hls/discovery.m3u8
+http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png",国家地理
-http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
+http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1,Star Sports
-http://v.mp.haue.edu.cn/hls/starsports.m3u8
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1,翡翠台
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1,J2
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1,明珠台
+http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1,TVB星河
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
+#EXTINF:-1,TVB功夫
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1,美亚电影台
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1,天映
+http://iptv.tvfix.org/hls/typd.m3u8
+#EXTINF:-1,天映经典
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1,Animax
+http://iptv.tvfix.org/hls/animax2.m3u8
+#EXTINF:-1,Hands Up Channel
+http://iptv.tvfix.org/hls/kid2.m3u8
+#EXTINF:-1,动物星球
+http://iptv.tvfix.org/hls/animal2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN纪录
@@ -183,48 +205,8 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN西班牙语
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV冬奥纪实8K
-http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1,CCTV-1HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
-#EXTINF:-1,CCTV-2HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
-#EXTINF:-1,CCTV-3HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
-#EXTINF:-1,CCTV-4HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
-#EXTINF:-1,CCTV-5HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
-#EXTINF:-1,CCTV-5+HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
-#EXTINF:-1,CCTV-6HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8
-#EXTINF:-1,CCTV-7HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
-#EXTINF:-1,CCTV-8HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8
-#EXTINF:-1,CCTV-9HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8
-#EXTINF:-1,CCTV-10HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
-#EXTINF:-1,CCTV-11HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
-#EXTINF:-1,CCTV-12HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8
-#EXTINF:-1,CCTV-13HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
-#EXTINF:-1,CCTV-14HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8
-#EXTINF:-1,CCTV-15HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
-#EXTINF:-1,CCTV-16HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
-#EXTINF:-1,CCTV-17HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
-#EXTINF:-1,北京卫视HD [备用测试]
-http://gdctcc-livod.ali.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
 #EXTINF:-1,通州
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1,房山无线
@@ -235,5 +217,7 @@ http://live.funhillrm.com/5/sd/live.m3u8
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1,顺义
 http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
+#EXTINF:-1,昌平
+http://61.50.142.158/live/0.m3u8
 #EXTINF:-1,清华
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
