@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>屏幕录制工具 - 784040932</title>
+<script type="text/javascript" language="javascript">
+	let btn = document.querySelector(".button");
+
+	btn.addEventListener("click", async function () {
+		let stream = await navigator.mediaDevices.getDisplayMedia({
+			video: true
+		});
+
+		// 需要更好的浏览器支持
+		const mime = MediaRecorder.isTypeSupported("video/webm; codecs=vp9")
+			? "video/webm; codecs=vp9"
+			: "video/webm";
+		let mediaRecorder = new MediaRecorder(stream, {
+			mimeType: mime
+		});
+
+		let chunks = [];
+		mediaRecorder.addEventListener('dataavailable', function (e) {
+			chunks.push(e.data)
+		});
+
+		mediaRecorder.addEventListener('stop', function () {
+			let blob = new Blob(chunks, {
+				type: chunks[0].type
+			});
+			let url = URL.createObjectURL(blob);
+
+			let video = document.querySelector("video");
+			video.src = url;
+
+			let a = document.createElement('a');
+			a.href = url;
+			a.download = 'video.webm';
+			a.click()
+		});
+
+
+		// 必须手动启动
+		mediaRecorder.start()
+	})
+</script>
+<style type="text/css">
+<!--
+.main {
+	text-align: center;
+  width: 960px;
+}
+.button {
+	height: 54px;
+	width: 180px;
+  margin-top: 60px; 
+	vertical-align: top;
+}
+.video {
+	text-align: center;
+  width: 960px;
+}
+footer {
+	bottom: 20px;
+	margin-bottom: 20px;
+	position: absolute;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<div class="main">
+	<video class="video" width="960px" controls=""></video>
+  <button class="button">开始录制</button>
+</div>
+
+<footer>
+V1.0 By 784040932.
+</footer>
+
+</body>
+</html>
