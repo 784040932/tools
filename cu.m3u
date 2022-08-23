@@ -75,9 +75,9 @@ rtp://239.3.1.211:8064
 rtp://239.3.1.210:8056
 #EXTINF:-1 tvg-chno="39" tvg-id="38" tvg-name="山东卫视" tvg-logo="https://gitee.com/ZhuCYang/IPTV/raw/master/TVLogo/Shandong.png",山东卫视
 rtp://239.3.1.209:8052
-#EXTINF:-1 tvg-chno="40" tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://tvlogo.784040932.tk/img/CETV3.png",中国教育电视台-3
+#EXTINF:-1 tvg-chno="40" tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://tvlogo.784040932.tk/img/CETV3.png",中国教育电视台-3(北京频道)
 rtp://239.3.1.55:4120
-#EXTINF:-1 tvg-chno="41" tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://tvlogo.784040932.tk/img/CETV1.png",中国教育电视台-1
+#EXTINF:-1 tvg-chno="41" tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://tvlogo.784040932.tk/img/CETV1.png",中国教育电视台-1(综合教育)
 rtp://239.3.1.57:8152
 #EXTINF:-1 tvg-chno="42" tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/ZhuCYang/IPTV/raw/master/TVLogo/Chongqing.png",重庆卫视
 rtp://239.3.1.122:8160
@@ -125,32 +125,50 @@ rtp://239.3.1.43:8176
 rtp://239.3.1.48:8160
 #EXTINF:-1 tvg-chno="64" tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://tvlogo.784040932.tk/img/Xizang.png",西藏卫视
 rtp://239.3.1.47:8164
-#EXTINF:-1 tvg-chno="65" tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://tvlogo.784040932.tk/img/CETV4.png",中国教育电视台-4
+#EXTINF:-1 tvg-chno="65" tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://tvlogo.784040932.tk/img/CETV4.png",中国教育电视台-4(职业教育)
 rtp://239.3.1.56:4120
-#EXTINF:-1 tvg-chno="71" tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://tvlogo.784040932.tk/img/jsrw.png",纪实人文
-rtp://239.3.1.212:8060
-#EXTINF:-1 tvg-chno="72" tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://tvlogo.784040932.tk/img/jyjs.png",金鹰纪实
+#EXTINF:-1 tvg-chno="66" tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://tvlogo.784040932.tk/img/Xiamen.png",厦门卫视
+rtp://239.3.1.143:4120
+#EXTINF:-1 tvg-chno="67" tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://tvlogo.784040932.tk/img/jyjs.png",金鹰纪实
 rtp://239.3.1.58:8156
+#EXTINF:-1 tvg-chno="68" tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://tvlogo.784040932.tk/img/jsrw.png",纪实人文
+rtp://239.3.1.212:8060
+#EXTINF:-1 tvg-chno="69" tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://tvlogo.784040932.tk/img/Sansha.png",三沙卫视
+rtp://239.3.1.155:4120
+#EXTINF:-1 tvg-chno="70" tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://tvlogo.784040932.tk/img/Bingtuan.png",兵团卫视
+rtp://239.3.1.144:4120
+#EXTINF:-1 tvg-chno="71" tvg-id="60" tvg-name="南方卫视" tvg-logo="http://tvlogo.784040932.tk/img/Nanfang.png",大湾区卫视
+rtp://239.3.1.161:8001
+#EXTINF:-1 tvg-chno="72" tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://tvlogo.784040932.tk/img/jjkt.png",嘉佳卡通
+rtp://239.3.1.147:9268
+#EXTINF:-1 tvg-chno="73" tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://tvlogo.784040932.tk/img/CETV2.png",中国教育电视台-2(教学频道)
+rtp://239.3.1.54:4120
 #EXTINF:-1 tvg-chno="74" tvg-id="6585" tvg-name="茶频道" tvg-logo="http://tvlogo.784040932.tk/img/chapd.png",茶频道
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-chno="75" tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://tvlogo.784040932.tk/img/klcd.png",快乐垂钓
 rtp://239.3.1.164:8001
-#EXTINF:-1 tvg-chno="76" tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://tvlogo.784040932.tk/img/Xiamen.png",厦门卫视
-rtp://239.3.1.143:4120
-#EXTINF:-1 tvg-chno="77" tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://tvlogo.784040932.tk/img/jykt.png",金鹰卡通
+#EXTINF:-1 tvg-chno="76" tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://tvlogo.784040932.tk/img/jykt.png",金鹰卡通
 rtp://239.3.1.51:9252
-#EXTINF:-1 tvg-chno="78" tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://tvlogo.784040932.tk/img/CETV2.png",中国教育电视台-2
-rtp://239.3.1.54:4120
-#EXTINF:-1 tvg-chno="79" tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://tvlogo.784040932.tk/img/Sansha.png",三沙卫视
-http://pull2.ssws.tv/live/SswsTV20210803.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="60" tvg-name="南方卫视" tvg-logo="http://tvlogo.784040932.tk/img/Nanfang.png",南方卫视
-rtp://239.3.1.161:8001
-#EXTINF:-1 tvg-chno="81" tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://tvlogo.784040932.tk/img/jjkt.png",嘉佳卡通
-rtp://239.3.1.147:9268
-#EXTINF:-1 tvg-chno="82" tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://tvlogo.784040932.tk/img/Bingtuan.png",兵团卫视
-rtp://239.3.1.144:4120
-#EXTINF:-1 tvg-chno="83" tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://tvlogo.784040932.tk/img/ah4k.png",爱上4K
+#EXTINF:-1 tvg-chno="90" tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://tvlogo.784040932.tk/img/ah4k.png",爱上4K
 rtp://239.3.1.236:2000
+#EXTINF:-1 tvg-chno="91",VBR测试-1
+rtp://239.3.1.139:8001
+#EXTINF:-1 tvg-chno="92",VBR测试-2
+rtp://239.3.1.140:8001
+#EXTINF:-1 tvg-chno="93",4K测试
+rtp://239.3.1.104:8001
+#EXTINF:-1 tvg-chno="94",高清测试
+rtp://239.3.1.103:8001
+#EXTINF:-1 tvg-chno="95",总平台测试1
+rtp://239.3.1.247:2000
+#EXTINF:-1 tvg-chno="96",总平台测试2
+rtp://239.3.1.248:2000
+#EXTINF:-1 tvg-chno="97",BRTV冬奥纪实高清
+rtp://239.3.1.243:8000
+#EXTINF:-1 tvg-chno="98",BRTV冬奥纪实
+rtp://239.3.1.230:8000
+#EXTINF:-1 tvg-chno="99",BRTV冬奥纪实4K
+rtp://239.3.1.120:8000
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="听听FM",FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="听听FM",FM1073 城市广播
@@ -231,3 +249,23 @@ https://lhttp.qingting.fm/live/5022463/64k.mp3
 http://ls.qingting.fm/live/334.m3u8
 #EXTINF:-1 radio="true" tvg-chno="40" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/51/c1/51c12efc7988dd11e24d3b816da70ac6.png" group-title="蜻蜓FM",FM982 青年广播
 http://ls.qingting.fm/live/347.m3u8
+#EXTINF:-1 radio="true" tvg-chno="41" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="云听",FM945 新闻广播
+http://cnlive.cnr.cn/hls/bjxwgb.m3u8
+#EXTINF:-1 radio="true" tvg-chno="42" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="云听",FM1073 城市广播
+http://cnlive.cnr.cn/hls/bjcsgb.m3u8
+#EXTINF:-1 radio="true" tvg-chno="43" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/80/45/8045c4574afeb9d54216a0dd886a7b2e.png" group-title="云听",FM954 故事广播
+http://cnlive.cnr.cn/hls/bjgsgb.m3u8
+#EXTINF:-1 radio="true" tvg-chno="44" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/c0/17/c01798add259570790dd12a123b81674.png" group-title="云听",FM1025 体育广播
+http://cnlive.cnr.cn/hls/bjtygb.m3u8
+#EXTINF:-1 radio="true" tvg-chno="45" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png" group-title="云听",FM1039 交通广播
+http://cnlive.cnr.cn/hls/bjjtgb.m3u8
+#EXTINF:-1 radio="true" tvg-chno="46" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/01/e0/01e0ecc431332c970da282153b0cc52a.png" group-title="云听",FM876 文艺广播
+http://cnlive.cnr.cn/hls/bjwygb.m3u8
+#EXTINF:-1 radio="true" tvg-chno="47" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/5a/a8/5aa89f8793177cc4bb83ceb9ab47e403.png" group-title="云听",FM974 音乐广播
+http://cnlive.cnr.cn/hls/bjyygb.m3u8
+#EXTINF:-1 radio="true" tvg-chno="48" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/e8/01/e8011fde186eabcfa49b83e82f44d3c3.png" group-title="云听",FM1006 京津冀之声
+http://rscdn.ajmide.com/r_125/live_125.m3u8
+#EXTINF:-1 radio="true" tvg-chno="49" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/de/28/de2860ed7562b2d15861ead856d6fb01.png" group-title="云听",FM923 外语广播
+http://cnlive.cnr.cn/hls/bjwaiygb.m3u8
+#EXTINF:-1 radio="true" tvg-chno="50" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/51/c1/51c12efc7988dd11e24d3b816da70ac6.png" group-title="云听",FM982 青年广播
+http://cnlive.cnr.cn/hls/bjqngb.m3u8
