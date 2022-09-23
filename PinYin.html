@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>ÔÚÏßÆ´ÒôÊäÈë·¨ - 784040932</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>åœ¨çº¿æ‹¼éŸ³è¾“å…¥æ³• - 784040932</title>
 <script language="javascript">
 window.onload=function(){
 	BodyOnLoad();
@@ -69,10 +69,10 @@ footer {
 </div>
 
 <div>
-	<input id="EnglishMode" onfocus="IME.InputArea.focus()" type="checkbox" name="EnglishMode">Ó¢ÎÄ(Ctrl)
-	<input id="FullShape" onfocus="IME.InputArea.focus()" type="checkbox" name="FullShape">È«½Ç×Ö·û(F12)
-	<input id="AutoUp" onfocus="IME.InputArea.focus()" type="checkbox" name="AutoUp">×Ô¶¯ÉÏÆÁ
-	·­Ò³ PageUp/PageDown
+	<input id="EnglishMode" onfocus="IME.InputArea.focus()" type="checkbox" name="EnglishMode">è‹±æ–‡(Ctrl)
+	<input id="FullShape" onfocus="IME.InputArea.focus()" type="checkbox" name="FullShape">å…¨è§’å­—ç¬¦(F12)
+	<input id="AutoUp" onfocus="IME.InputArea.focus()" type="checkbox" name="AutoUp">è‡ªåŠ¨ä¸Šå±
+	ç¿»é¡µ PageUp/PageDown
 </div>
 
 <footer>
@@ -82,49 +82,49 @@ V1.0 By 784040932.
 <script language="javascript" src="pinyin.js" charset="gb2312"></script>
 <script language="javascript" src="pinyinime.js" charset="gb2312"></script>
 <script language="javascript">
-	var flag = false;//Êó±ê|ÊÖÖ¸ÊÇ·ñ°´ÏÂµÄ±ê¼Ç
-	var cur = {//¼ÇÂ¼Êó±ê|ÊÖÖ¸°´ÏÂÊ±µÄ×ø±ê
+	var flag = false;//é¼ æ ‡|æ‰‹æŒ‡æ˜¯å¦æŒ‰ä¸‹çš„æ ‡è®°
+	var cur = {//è®°å½•é¼ æ ‡|æ‰‹æŒ‡æŒ‰ä¸‹æ—¶çš„åæ ‡
 		x:0,
 		y:0
 	}
 	var nx,ny,dx,dy,x,y ;
-	//°´ÏÂÊ±µÄº¯Êı
+	//æŒ‰ä¸‹æ—¶çš„å‡½æ•°
 	function down(){
-		flag = true;//È·ÈÏÊó±ê|ÊÖÖ¸°´ÏÂ
+		flag = true;//ç¡®è®¤é¼ æ ‡|æ‰‹æŒ‡æŒ‰ä¸‹
 		var touch ;
 		if(event.touches){
-			touch = event.touches[0];//¶à¸öÊó±ê|ÊÖÖ¸ÊÂ¼şÈ¡µÚÒ»¸ö
+			touch = event.touches[0];//å¤šä¸ªé¼ æ ‡|æ‰‹æŒ‡äº‹ä»¶å–ç¬¬ä¸€ä¸ª
 		}else {
 			touch = event;
 		}
-		cur.x = touch.clientX; //¼ÇÂ¼Êó±ê|ÊÖÖ¸µ±Ç°µÄx×ø±ê
-		cur.y = touch.clientY;//¼ÇÂ¼Êó±ê|ÊÖÖ¸µ±Ç°µÄy×ø±ê
-		dx = input.offsetLeft;//¼ÇÂ¼divµ±Ê±µÄ×óÆ«ÒÆÁ¿
-		dy = input.offsetTop;//¼ÇÂ¼divµÄÉÏÆ«ÒÆÁ¿
+		cur.x = touch.clientX; //è®°å½•é¼ æ ‡|æ‰‹æŒ‡å½“å‰çš„xåæ ‡
+		cur.y = touch.clientY;//è®°å½•é¼ æ ‡|æ‰‹æŒ‡å½“å‰çš„yåæ ‡
+		dx = input.offsetLeft;//è®°å½•divå½“æ—¶çš„å·¦åç§»é‡
+		dy = input.offsetTop;//è®°å½•divçš„ä¸Šåç§»é‡
 	}
 	function move(){
-		if(flag){//Èç¹ûÊÇÊó±ê|ÊÖÖ¸°´ÏÂÔò¼ÌĞøÖ´ĞĞ
+		if(flag){//å¦‚æœæ˜¯é¼ æ ‡|æ‰‹æŒ‡æŒ‰ä¸‹åˆ™ç»§ç»­æ‰§è¡Œ
 			var touch ;
 			if(event.touches){
 				touch = event.touches[0];
 			}else {
 				touch = event;
 			}
-			nx = touch.clientX - cur.x;//¼ÇÂ¼ÔÚÊó±ê|ÊÖÖ¸xÖáÒÆ¶¯µÄÊı¾İ
-			ny = touch.clientY - cur.y;//¼ÇÂ¼ÔÚÊó±ê|ÊÖÖ¸yÖáÒÆ¶¯µÄÊı¾İ
-			x = dx+nx; //divÔÚxÖáµÄÆ«ÒÆÁ¿¼ÓÉÏÊó±ê|ÊÖÖ¸ÔÚxÖáÒÆ¶¯µÄ¾àÀë
-			y = dy+ny; //divÔÚyÖáµÄÆ«ÒÆÁ¿¼ÓÉÏÊó±ê|ÊÖÖ¸ÔÚyÖáÒÆ¶¯µÄ¾àÀë
+			nx = touch.clientX - cur.x;//è®°å½•åœ¨é¼ æ ‡|æ‰‹æŒ‡xè½´ç§»åŠ¨çš„æ•°æ®
+			ny = touch.clientY - cur.y;//è®°å½•åœ¨é¼ æ ‡|æ‰‹æŒ‡yè½´ç§»åŠ¨çš„æ•°æ®
+			x = dx+nx; //divåœ¨xè½´çš„åç§»é‡åŠ ä¸Šé¼ æ ‡|æ‰‹æŒ‡åœ¨xè½´ç§»åŠ¨çš„è·ç¦»
+			y = dy+ny; //divåœ¨yè½´çš„åç§»é‡åŠ ä¸Šé¼ æ ‡|æ‰‹æŒ‡åœ¨yè½´ç§»åŠ¨çš„è·ç¦»
 			input.style.left = x+"px";
 			input.style.top = y +"px";
-			//×èÖ¹Ò³ÃæµÄ»¬¶¯Ä¬ÈÏÊÂ¼ş
+			//é˜»æ­¢é¡µé¢çš„æ»‘åŠ¨é»˜è®¤äº‹ä»¶
 			document.addEventListener("touchmove",function(){
 				event.preventDefault();
 			},false);
 		}
 	}
-	//Êó±ê|ÊÖÖ¸ÊÍ·ÅÊ±ºòµÄº¯Êı
+	//é¼ æ ‡|æ‰‹æŒ‡é‡Šæ”¾æ—¶å€™çš„å‡½æ•°
 	function end(){
-		flag = false; //Êó±ê|ÊÖÖ¸ÊÍ·Å
+		flag = false; //é¼ æ ‡|æ‰‹æŒ‡é‡Šæ”¾
 	}
 	var input = document.getElementById("input");
 	input.addEventListener("mousedown",function(){
