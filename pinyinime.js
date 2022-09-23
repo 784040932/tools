@@ -70,7 +70,7 @@ function GetStr(No, s){
     }
   }
   if(No>10 && CodeList[No-10].indexOf(s)==0) IME.Cand.value+='-.←\n';
-  if(i==10 && No<=CodeList.length-11 && CodeList[No+i].indexOf(s)==0) IME.Cand.value+='+.→';
+  if(i==10 && No<=CodeList.length-11 && CodeList[No+i].indexOf(s)==0) IME.Cand.value+='+.->';
   LastNo=No;
 }
 
