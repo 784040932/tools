@@ -17,45 +17,45 @@ rtp://239.3.1.249:8001
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://tvlogo.784040932.tk/img/Phoenix2.png",凤凰资讯
 https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://tvlogo.784040932.tk/img/dajs.png",BRTV冬奥纪实
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/ZhuCYang/IPTV/raw/master/TVLogo/Beijing.png",BRTV北京卫视
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-chno="12" tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://tvlogo.784040932.tk/img/Beijing3.png",BRTV文艺
 rtp://239.3.1.242:8000
-#EXTINF:-1 tvg-chno="13" tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://tvlogo.784040932.tk/img/Beijing5.png",BRTV科教
+#EXTINF:-1 tvg-chno="13" tvg-id="1874" tvg-name="BTV科教" tvg-logo="",BRTV纪实科教
 rtp://239.3.1.115:8000
 #EXTINF:-1 tvg-chno="14" tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://tvlogo.784040932.tk/img/Beijing4.png",BRTV影视
 rtp://239.3.1.158:8000
 #EXTINF:-1 tvg-chno="15" tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://tvlogo.784040932.tk/img/Beijing2.png",BRTV财经
 rtp://239.3.1.116:8000
-#EXTINF:-1 tvg-chno="16" tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://tvlogo.784040932.tk/img/Beijing7.png",BRTV生活
+#EXTINF:-1 tvg-chno="16" tvg-id="" tvg-name="" tvg-logo="",BRTV体育休闲
+rtp://239.3.1.243:8000
+#EXTINF:-1 tvg-chno="17" tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://tvlogo.784040932.tk/img/Beijing7.png",BRTV生活
 rtp://239.3.1.117:8000
-#EXTINF:-1 tvg-chno="17" tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://tvlogo.784040932.tk/img/Beijing6.png",BRTV青年
+#EXTINF:-1 tvg-chno="18" tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://tvlogo.784040932.tk/img/Beijing6.png",BRTV青年
 rtp://239.3.1.118:8000
-#EXTINF:-1 tvg-chno="18" tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://tvlogo.784040932.tk/img/Beijing1.png",BRTV新闻
+#EXTINF:-1 tvg-chno="19" tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://tvlogo.784040932.tk/img/Beijing1.png",BRTV新闻
 rtp://239.3.1.159:8000
-#EXTINF:-1 tvg-chno="19" tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://tvlogo.784040932.tk/img/kakushaoer.png",BRTV卡酷少儿
+#EXTINF:-1 tvg-chno="20" tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://tvlogo.784040932.tk/img/kakushaoer.png",BRTV卡酷少儿
 rtp://239.3.1.189:8000
-#EXTINF:-1 tvg-chno="20" tvg-logo="http://tvlogo.784040932.tk/img/Beijing.png",BTV国际频道
+#EXTINF:-1 tvg-chno="21" tvg-logo="http://tvlogo.784040932.tk/img/Beijing.png",BTV国际频道
 rtp://239.3.1.235:8000
-#EXTINF:-1 tvg-chno="21" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山无线
-rtp://239.3.1.96:8001
-#EXTINF:-1 tvg-chno="22" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山有线
+#EXTINF:-1 tvg-chno="22" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山无线
+http://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山有线
 http://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-logo="http://uploads.784040932.tk/tv/ChaoYang.png",朝阳
+#EXTINF:-1 tvg-chno="24" tvg-logo="http://uploads.784040932.tk/tv/ChaoYang.png",朝阳
 rtp://239.3.1.163:8001
-#EXTINF:-1 tvg-chno="24" tvg-logo="http://uploads.784040932.tk/tv/Shijingshan.png",石景山
+#EXTINF:-1 tvg-chno="25" tvg-logo="http://uploads.784040932.tk/tv/Shijingshan.png",石景山
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-logo="http://uploads.784040932.tk/tv/Tongzhou.png",通州
+#EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/Tongzhou.png",通州
 rtp://239.3.1.221:8001
-#EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/Shunyi.png",顺义
+#EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/Shunyi.png",顺义
 http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
-#EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/Miyun.png",密云
+#EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/Miyun.png",密云
 rtp://239.3.1.154:8001
-#EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/Yanqing.png",延庆
+#EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/Yanqing.png",延庆
 rtp://239.3.1.187:8001
-#EXTINF:-1 tvg-chno="29" tvg-logo="http://tvlogo.784040932.tk/img/qhdx.png",清华
+#EXTINF:-1 tvg-chno="30" tvg-logo="http://tvlogo.784040932.tk/img/qhdx.png",清华
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://tvlogo.784040932.tk/img/Hunan.png",湖南卫视
 rtp://239.3.1.132:8012
@@ -151,24 +151,18 @@ rtp://239.3.1.164:8001
 rtp://239.3.1.51:9252
 #EXTINF:-1 tvg-chno="90" tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://tvlogo.784040932.tk/img/ah4k.png",爱上4K
 rtp://239.3.1.236:2000
-#EXTINF:-1 tvg-chno="91",VBR测试-1
-rtp://239.3.1.139:8001
-#EXTINF:-1 tvg-chno="92",VBR测试-2
-rtp://239.3.1.140:8001
-#EXTINF:-1 tvg-chno="93",4K测试
-rtp://239.3.1.104:8001
-#EXTINF:-1 tvg-chno="94",高清测试
-rtp://239.3.1.103:8001
-#EXTINF:-1 tvg-chno="95",总平台测试1
-rtp://239.3.1.247:2000
-#EXTINF:-1 tvg-chno="96",总平台测试2
-rtp://239.3.1.248:2000
-#EXTINF:-1 tvg-chno="97",BRTV冬奥纪实高清
+#EXTINF:-1 tvg-chno="91",BRTV冬奥纪实[高清]
 rtp://239.3.1.243:8000
-#EXTINF:-1 tvg-chno="98",BRTV冬奥纪实
-rtp://239.3.1.230:8000
-#EXTINF:-1 tvg-chno="99",BRTV冬奥纪实4K
+#EXTINF:-1 tvg-chno="92",BRTV冬奥纪实[超清HDR]
 rtp://239.3.1.120:8000
+#EXTINF:-1 tvg-chno="93",BRTV冬奥纪实[超清]
+rtp://239.3.1.121:8000
+#EXTINF:-1 tvg-chno="94",BRTV体育休闲
+rtp://239.3.1.230:8000
+#EXTINF:-1 tvg-chno="95",房山电视台[高清]
+rtp://239.3.1.96:8001
+#EXTINF:-1 tvg-chno="96",BRTV纪实科教[123]
+rtp://2239.3.1.227:8000
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="听听FM",FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="听听FM",FM1073 城市广播
