@@ -21,13 +21,13 @@ https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-chno="12" tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://tvlogo.784040932.tk/img/Beijing3.png",BRTV文艺
 rtp://239.3.1.242:8000
-#EXTINF:-1 tvg-chno="13" tvg-id="1874" tvg-name="BTV科教" tvg-logo="",BRTV纪实科教
+#EXTINF:-1 tvg-chno="13" tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://uploads.784040932.tk/tv/BRTV3.png",BRTV纪实科教
 rtp://239.3.1.115:8000
 #EXTINF:-1 tvg-chno="14" tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://tvlogo.784040932.tk/img/Beijing4.png",BRTV影视
 rtp://239.3.1.158:8000
 #EXTINF:-1 tvg-chno="15" tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://tvlogo.784040932.tk/img/Beijing2.png",BRTV财经
 rtp://239.3.1.116:8000
-#EXTINF:-1 tvg-chno="16" tvg-id="" tvg-name="" tvg-logo="",BRTV体育休闲
+#EXTINF:-1 tvg-chno="16" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/BRTV6.png",BRTV体育休闲
 rtp://239.3.1.230:8000
 #EXTINF:-1 tvg-chno="17" tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://tvlogo.784040932.tk/img/Beijing7.png",BRTV生活
 rtp://239.3.1.117:8000
