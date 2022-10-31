@@ -49,11 +49,11 @@ rtp://239.3.1.163:8001
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/Tongzhou.png",通州
 rtp://239.3.1.221:8001
-#EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/Shunyi.png",顺义
+#EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/ShunYi.png",顺义
 http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
-#EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/Miyun.png",密云
+#EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/MiYun.png",密云
 rtp://239.3.1.154:8001
-#EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/Yanqing.png",延庆
+#EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/YanQing.png",延庆
 rtp://239.3.1.187:8001
 #EXTINF:-1 tvg-chno="30" tvg-logo="http://tvlogo.784040932.tk/img/qhdx.png",清华
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
