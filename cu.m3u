@@ -40,7 +40,7 @@ rtp://239.3.1.189:8000
 #EXTINF:-1 tvg-chno="21" tvg-logo="",BTV国际频道
 rtp://239.3.1.235:8000
 #EXTINF:-1 tvg-chno="22" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山无线
-http://live.funhillrm.com/2/sd/live.m3u8
+rtp://239.3.1.96:8001
 #EXTINF:-1 tvg-chno="23" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山有线
 http://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-logo="http://uploads.784040932.tk/tv/ChaoYang.png",朝阳
@@ -50,7 +50,7 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/Tongzhou.png",通州
 rtp://239.3.1.221:8001
 #EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/ShunYi.png",顺义
-http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
+https://livepgc.chinamcache.com:443/pgc/f37b95ea2af059da38e70df4f20bd1d6.m3u8?auth_key=1697077107-0-0-26501fb00146dced0f578e4921e63708
 #EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/MiYun.png",密云
 rtp://239.3.1.154:8001
 #EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/YanQing.png",延庆
@@ -151,10 +151,8 @@ rtp://239.3.1.164:8001
 rtp://239.3.1.51:9252
 #EXTINF:-1 tvg-chno="90" tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://tvlogo.784040932.tk/img/ah4k.png",爱上4K
 rtp://239.3.1.236:2000
-#EXTINF:-1 tvg-chno="91",BRTV体育休闲高清[26]
+#EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/BRTV6.png",BRTV体育休闲高清
 rtp://239.3.1.243:8000
-#EXTINF:-1 tvg-chno="92",房山电视台[高清]
-rtp://239.3.1.96:8001
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="听听FM",FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="听听FM",FM1073 城市广播
