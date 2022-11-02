@@ -50,7 +50,7 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/Tongzhou.png",通州
 rtp://239.3.1.221:8001
 #EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/ShunYi.png",顺义
-https://livepgc.chinamcache.com:443/pgc/f37b95ea2af059da38e70df4f20bd1d6.m3u8?auth_key=1697077107-0-0-26501fb00146dced0f578e4921e63708
+http://784040932.tk/tv/sydst.php?client=ANDROID&id=55291758
 #EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/MiYun.png",密云
 rtp://239.3.1.154:8001
 #EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/YanQing.png",延庆
