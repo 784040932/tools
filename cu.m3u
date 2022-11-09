@@ -155,7 +155,7 @@ rtp://239.3.1.51:9252
 rtp://239.3.1.236:2000
 #EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/BRTV6.png",BRTV体育休闲高清
 rtp://239.3.1.243:8000
-#EXTINF:-1 tvg-chno="92" tvg-id="" tvg-name="" tvg-logo="http://upload-images.bjctc.scs.cd.gehua.net.cn/cmp/image/channel/icon/ZQJY.png",中国教育电视台-早期教育(早期教育)
+#EXTINF:-1 tvg-chno="92" tvg-id="" tvg-name="" tvg-logo="http://tvlogo.784040932.tk/img/zqjy.png",中国教育电视台-早期教育(早期教育)
 http://hls.yun.gehua.net.cn:8088/live/ZaoQiJiaoYu_2000.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/MenTouGou.png",门头沟
 http://hls.yun.gehua.net.cn:8088/live/ipcdn/MenTouGouQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
