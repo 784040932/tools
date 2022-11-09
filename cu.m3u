@@ -17,6 +17,8 @@ rtp://239.3.1.249:8001
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://tvlogo.784040932.tk/img/Phoenix2.png",凤凰资讯
 https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-logo="",歌华导视
+http://hls.yun.gehua.net.cn:8088/live/GeHuadaoshiHD_1200.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="30" tvg-name="北京卫视" tvg-logo="http://tvlogo.784040932.tk/img/Beijing.png",BRTV北京卫视
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-chno="12" tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://tvlogo.784040932.tk/img/Beijing3.png",BRTV文艺
@@ -153,6 +155,12 @@ rtp://239.3.1.51:9252
 rtp://239.3.1.236:2000
 #EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/BRTV6.png",BRTV体育休闲高清
 rtp://239.3.1.243:8000
+#EXTINF:-1 tvg-chno="92" tvg-id="" tvg-name="" tvg-logo="http://upload-images.bjctc.scs.cd.gehua.net.cn/cmp/image/channel/icon/ZQJY.png",中国教育电视台-早期教育(早期教育)
+http://hls.yun.gehua.net.cn:8088/live/ZaoQiJiaoYu_2000.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/MenTouGou.png",门头沟
+http://hls.yun.gehua.net.cn:8088/live/ipcdn/MenTouGouQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/PingGu.png",平谷
+http://hls.yun.gehua.net.cn:8088/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="听听FM",FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="听听FM",FM1073 城市广播
