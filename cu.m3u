@@ -17,8 +17,8 @@ rtp://239.3.1.249:8001
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://tvlogo.784040932.tk/img/Phoenix2.png",凤凰资讯
 https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-logo="",歌华导视
-http://hls.yun.gehua.net.cn:8088/live/GeHuadaoshiHD_1200.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-logo="",BTV国际频道
+rtp://239.3.1.235:8000
 #EXTINF:-1 tvg-chno="11" tvg-id="30" tvg-name="北京卫视" tvg-logo="http://tvlogo.784040932.tk/img/Beijing.png",BRTV北京卫视
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-chno="12" tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://tvlogo.784040932.tk/img/Beijing3.png",BRTV文艺
@@ -39,26 +39,26 @@ rtp://239.3.1.118:8000
 rtp://239.3.1.159:8000
 #EXTINF:-1 tvg-chno="20" tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://tvlogo.784040932.tk/img/kakushaoer.png",BRTV卡酷少儿
 rtp://239.3.1.189:8000
-#EXTINF:-1 tvg-chno="21" tvg-logo="",BTV国际频道
-rtp://239.3.1.235:8000
-#EXTINF:-1 tvg-chno="22" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山无线
+#EXTINF:-1 tvg-chno="21" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山无线
 rtp://239.3.1.96:8001
-#EXTINF:-1 tvg-chno="23" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山有线
+#EXTINF:-1 tvg-chno="22" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山有线
 http://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-logo="http://uploads.784040932.tk/tv/ChaoYang.png",朝阳
+#EXTINF:-1 tvg-chno="23" tvg-logo="http://uploads.784040932.tk/tv/ChaoYang.png",朝阳
 rtp://239.3.1.163:8001
-#EXTINF:-1 tvg-chno="25" tvg-logo="http://uploads.784040932.tk/tv/Shijingshan.png",石景山
+#EXTINF:-1 tvg-chno="24" tvg-logo="http://uploads.784040932.tk/tv/Shijingshan.png",石景山
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/MenTouGou.png",门头沟
+http://hls.yun.gehua.net.cn:8088/live/ipcdn/MenTouGouQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/Tongzhou.png",通州
 rtp://239.3.1.221:8001
 #EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/ShunYi.png",顺义
 http://784040932.tk/tv/sydst.php?client=ANDROID&id=55291758
-#EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/MiYun.png",密云
+#EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/PingGu.png",平谷
+http://hls.yun.gehua.net.cn:8088/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/MiYun.png",密云
 rtp://239.3.1.154:8001
-#EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/YanQing.png",延庆
+#EXTINF:-1 tvg-chno="30" tvg-logo="http://uploads.784040932.tk/tv/YanQing.png",延庆
 rtp://239.3.1.187:8001
-#EXTINF:-1 tvg-chno="30" tvg-logo="http://tvlogo.784040932.tk/img/qhdx.png",清华
-http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://tvlogo.784040932.tk/img/Hunan.png",湖南卫视
 rtp://239.3.1.132:8012
 #EXTINF:-1 tvg-chno="32" tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://tvlogo.784040932.tk/img/Jiangsu.png",江苏卫视
@@ -157,10 +157,8 @@ rtp://239.3.1.236:2000
 rtp://239.3.1.243:8000
 #EXTINF:-1 tvg-chno="92" tvg-id="" tvg-name="" tvg-logo="http://tvlogo.784040932.tk/img/zqjy.png",中国教育电视台-早期教育(早期教育)
 http://hls.yun.gehua.net.cn:8088/live/ZaoQiJiaoYu_2000.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/MenTouGou.png",门头沟
-http://hls.yun.gehua.net.cn:8088/live/ipcdn/MenTouGouQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/PingGu.png",平谷
-http://hls.yun.gehua.net.cn:8088/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-logo="http://tvlogo.784040932.tk/img/qhdx.png",清华
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="听听FM",FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="听听FM",FM1073 城市广播
