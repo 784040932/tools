@@ -159,6 +159,12 @@ rtp://239.3.1.243:8000
 http://hls.yun.gehua.net.cn:8088/live/ZaoQiJiaoYu_2000.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-logo="http://tvlogo.784040932.tk/img/qhdx.png",清华
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1 tvg-chno="94",Astro Super Sport 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1 tvg-chno="95",Astro Super Sport 4K备
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/XINGKONG1/XINGKONG1.jpg" tvg-chno="96",星空卫视
+http://159.75.85.63:5828/gudou.php?id=xingkong_1500
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="听听FM",FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="听听FM",FM1073 城市广播
