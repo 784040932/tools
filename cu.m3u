@@ -167,6 +167,12 @@ http://784040932.tk/radio/?id=EOAonLJy7G&sign=3cde0bf619d81d0e9050e3e35eca0ac5
 http://784040932.tk/radio/?id=p1WdYMdgz6&sign=d732c7babe0b5e3de62bc16a4d7e524a
 #EXTINF:-1 radio="true" tvg-chno="7" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/e8/01/e8011fde186eabcfa49b83e82f44d3c3.png" group-title="听听FM",FM1006 京津冀之声
 http://784040932.tk/radio/?id=R6gay0zoeV&sign=c68bac241aeb578417a4d7f7b86667ea
+#EXTINF:-1 radio="true" tvg-chno="8" tvg-logo="http://resezfm.meldingcloud.com/image/1907/1563347472411.jpg" group-title="",FM887 CRI Hit FM GuangZhou
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-chno="9" tvg-logo="http://resezfm.meldingcloud.com/image/1907/1563347472411.jpg" group-title="",FM887 CRI Hit FM BeiJing
+http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-chno="10" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="",FM945 新闻广播
+http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-chno="11" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="RBC",FM945 新闻广播
 https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 #EXTINF:-1 radio="true" tvg-chno="12" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="RBC",FM1073 城市广播
@@ -181,6 +187,12 @@ https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
 https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
 #EXTINF:-1 radio="true" tvg-chno="17" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/e8/01/e8011fde186eabcfa49b83e82f44d3c3.png" group-title="RBC",FM1006 京津冀之声
 https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
+#EXTINF:-1 radio="true" tvg-chno="18" tvg-logo="http://resezfm.meldingcloud.com/image/1907/1563347472411.jpg" group-title="",FM887 CRI Hit FM
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1 radio="true" tvg-chno="19" tvg-logo="http://ezfm.cri.cn/static/img/radio-ez-img.7784316.png" group-title="",FM915 CRI EZ FM
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 radio="true" tvg-chno="20" tvg-logo="http://img.funhillrm.com/20191217f02d840cfde55cac9cb829e1c954c7a6.jpg" group-title="",FM969 经典音乐广播
+https://live.funhillrm.com/aac_3/sd/live.m3u8
 #EXTINF:-1 radio="true" tvg-chno="21" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="阿基米德FM",FM945 新闻广播
 https://rscdn.ajmide.com:443/r_83/live_83.m3u8
 #EXTINF:-1 radio="true" tvg-chno="22" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="阿基米德FM",FM1073 城市广播
@@ -190,34 +202,28 @@ https://rscdn.ajmide.com:443/r_89/89.m3u8
 #EXTINF:-1 radio="true" tvg-chno="24" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/5a/a8/5aa89f8793177cc4bb83ceb9ab47e403.png" group-title="阿基米德FM",FM974 音乐广播
 https://rscdn.ajmide.com:443/r_86/86.m3u8
 #EXTINF:-1 radio="true" tvg-chno="25" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png" group-title="阿基米德FM",FM1039 交通广播
-https://rscdn.ajmide.com:443/r_86/85.m3u8
+https://rscdn.ajmide.com:443/r_85/85.m3u8
 #EXTINF:-1 radio="true" tvg-chno="26" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/01/e0/01e0ecc431332c970da282153b0cc52a.png" group-title="阿基米德FM",FM876 文艺广播
-https://rscdn.ajmide.com:443/r_86/84.m3u8
+https://rscdn.ajmide.com:443/r_84/84.m3u8
 #EXTINF:-1 radio="true" tvg-chno="27" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/e8/01/e8011fde186eabcfa49b83e82f44d3c3.png" group-title="阿基米德FM",FM1006 京津冀之声
 https://rscdn.ajmide.com:443/r_2878/live_2878.m3u8
-#EXTINF:-1 radio="true" tvg-chno="31" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="蜻蜓FM",FM945 新闻广播
-http://ls.qingting.fm/live/339.m3u8
-#EXTINF:-1 radio="true" tvg-chno="32" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="蜻蜓FM",FM1073 城市广播
-http://ls.qingting.fm/live/345.m3u8
-#EXTINF:-1 radio="true" tvg-chno="33" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/c0/17/c01798add259570790dd12a123b81674.png" group-title="蜻蜓FM",FM1025 体育广播
-http://ls.qingting.fm/live/335.m3u8
-#EXTINF:-1 radio="true" tvg-chno="34" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/5a/a8/5aa89f8793177cc4bb83ceb9ab47e403.png" group-title="蜻蜓FM",FM974 音乐广播
-http://ls.qingting.fm/live/332.m3u8
-#EXTINF:-1 radio="true" tvg-chno="35" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png" group-title="蜻蜓FM",FM1039 交通广播
+#EXTINF:-1 radio="true" tvg-chno="28" tvg-logo="https://img-ossimg.ajmide.com/program/1GtKr9.png" group-title="阿基米德FM",FM887 CRI Hit FM
+https://rscdn.ajmide.com:443/r_125/125.m3u8
+#EXTINF:-1 radio="true" tvg-chno="29" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png" group-title="",FM1039 交通广播
 http://ls.qingting.fm/live/336.m3u8
-#EXTINF:-1 radio="true" tvg-chno="36" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/01/e0/01e0ecc431332c970da282153b0cc52a.png" group-title="蜻蜓FM",FM876 文艺广播
+#EXTINF:-1 radio="true" tvg-chno="30" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/01/e0/01e0ecc431332c970da282153b0cc52a.png" group-title="",FM876 文艺广播
 http://ls.qingting.fm/live/333.m3u8
-#EXTINF:-1 radio="true" tvg-chno="37" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/e8/01/e8011fde186eabcfa49b83e82f44d3c3.png" group-title="蜻蜓FM",FM1006 京津冀之声
-https://lhttp.qingting.fm/live/5022463/64k.mp3
-#EXTINF:-1 radio="true" tvg-chno="41" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="云听",FM945 新闻广播
+#EXTINF:-1 radio="true" tvg-chno="31" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="云听",FM945 新闻广播
 http://cnlive.cnr.cn/hls/bjxwgb.m3u8
-#EXTINF:-1 radio="true" tvg-chno="42" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="云听",FM1073 城市广播
+#EXTINF:-1 radio="true" tvg-chno="32" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="云听",FM1073 城市广播
 http://cnlive.cnr.cn/hls/bjcsgb.m3u8
-#EXTINF:-1 radio="true" tvg-chno="43" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/c0/17/c01798add259570790dd12a123b81674.png" group-title="云听",FM1025 体育广播
+#EXTINF:-1 radio="true" tvg-chno="33" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/c0/17/c01798add259570790dd12a123b81674.png" group-title="云听",FM1025 体育广播
 http://cnlive.cnr.cn/hls/bjtygb.m3u8
-#EXTINF:-1 radio="true" tvg-chno="44" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/5a/a8/5aa89f8793177cc4bb83ceb9ab47e403.png" group-title="云听",FM974 音乐广播
+#EXTINF:-1 radio="true" tvg-chno="34" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/5a/a8/5aa89f8793177cc4bb83ceb9ab47e403.png" group-title="云听",FM974 音乐广播
 http://cnlive.cnr.cn/hls/bjyygb.m3u8
-#EXTINF:-1 radio="true" tvg-chno="45" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png" group-title="云听",FM1039 交通广播
+#EXTINF:-1 radio="true" tvg-chno="35" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png" group-title="云听",FM1039 交通广播
 http://cnlive.cnr.cn/hls/bjjtgb.m3u8
-#EXTINF:-1 radio="true" tvg-chno="46" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/01/e0/01e0ecc431332c970da282153b0cc52a.png" group-title="云听",FM876 文艺广播
+#EXTINF:-1 radio="true" tvg-chno="36" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/01/e0/01e0ecc431332c970da282153b0cc52a.png" group-title="云听",FM876 文艺广播
 http://cnlive.cnr.cn/hls/bjwygb.m3u8
+#EXTINF:-1 radio="true" tvg-chno="37" tvg-logo="http://resezfm.meldingcloud.com/image/1907/1563347472411.jpg" group-title="",FM887 CRI Hit FM
+http://liveop.cctv.cn/hls/cctvn/playlist.m3u8
