@@ -17,8 +17,6 @@ rtp://239.3.1.249:8001
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://tvlogo.784040932.tk/img/Phoenix2.png",凤凰资讯
 https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-logo="",BTV国际频道
-rtp://239.3.1.235:8000
 #EXTINF:-1 tvg-chno="11" tvg-id="30" tvg-name="北京卫视" tvg-logo="http://tvlogo.784040932.tk/img/Beijing.png",BRTV北京卫视
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-chno="12" tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://tvlogo.784040932.tk/img/Beijing3.png",BRTV文艺
@@ -33,12 +31,12 @@ rtp://239.3.1.116:8000
 rtp://239.3.1.243:8000
 #EXTINF:-1 tvg-chno="17" tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://tvlogo.784040932.tk/img/Beijing7.png",BRTV生活
 rtp://239.3.1.117:8000
-#EXTINF:-1 tvg-chno="18" tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://tvlogo.784040932.tk/img/Beijing6.png",BRTV青年
-rtp://239.3.1.118:8000
-#EXTINF:-1 tvg-chno="19" tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://tvlogo.784040932.tk/img/Beijing1.png",BRTV新闻
+#EXTINF:-1 tvg-chno="18" tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://tvlogo.784040932.tk/img/Beijing1.png",BRTV新闻
 rtp://239.3.1.159:8000
-#EXTINF:-1 tvg-chno="20" tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://tvlogo.784040932.tk/img/kakushaoer.png",BRTV卡酷少儿
+#EXTINF:-1 tvg-chno="19" tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://tvlogo.784040932.tk/img/kakushaoer.png",BRTV卡酷少儿
 rtp://239.3.1.189:8000
+#EXTINF:-1 tvg-chno="20" tvg-logo="",BTV国际频道
+rtp://239.3.1.235:8000
 #EXTINF:-1 tvg-chno="21" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山无线
 rtp://239.3.1.96:8001
 #EXTINF:-1 tvg-chno="22" tvg-logo="http://uploads.784040932.tk/tv/Fangshan.png",房山有线
@@ -52,7 +50,7 @@ http://hls.yun.gehua.net.cn:8088/live/ipcdn/MenTouGouQuXianXinWen/ipcdn,MenTouGo
 #EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/Tongzhou.png",通州
 rtp://239.3.1.221:8001
 #EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/ShunYi.png",顺义
-http://784040932.tk/tv/sydst.php?client=ANDROID&id=55291758
+#http://784040932.tk/tv/sydst.php?client=ANDROID&id=55291758
 #EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/PingGu.png",平谷
 http://hls.yun.gehua.net.cn:8088/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/MiYun.png",密云
