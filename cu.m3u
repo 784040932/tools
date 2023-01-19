@@ -17,6 +17,8 @@ rtp://239.3.1.249:8001
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://tvlogo.784040932.tk/img/Phoenix2.png",凤凰资讯
 https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-chno="10"tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png",歌华导视
+https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
 #EXTINF:-1 tvg-chno="11" tvg-id="30" tvg-name="北京卫视" tvg-logo="http://tvlogo.784040932.tk/img/Beijing.png",BRTV北京卫视
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-chno="12" tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://tvlogo.784040932.tk/img/Beijing3.png",BRTV文艺
@@ -151,6 +153,46 @@ rtp://239.3.1.164:8001
 rtp://239.3.1.51:9252
 #EXTINF:-1 tvg-chno="77" tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://tvlogo.784040932.tk/img/ah4k.png",爱上4K
 rtp://239.3.1.236:2000
+#EXTINF:-1 tvg-chno="78" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",CHC家庭影院
+https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
+#EXTINF:-1 tvg-chno="79" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
+https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
+#EXTINF:-1 tvg-chno="80" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
+https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
+#EXTINF:-1 tvg-chno="81" tvg-name="上海新闻综合",上海综合
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-name="上海都市",上海都市
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-name="上视东方影视",东方影视
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-name="第一财经",第一财经
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-name="上海五星体育",五星体育
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-name="上海外语",上海外语
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-name="欢笑剧场",欢笑剧场
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-name="都市剧场",都市剧场
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-name="生活时尚",生活时尚
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-chno="90" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png",中国教育电视台-早期教育
+https://live.v1.mk/api/ghyx.php?id=ZaoQiJiaoYuHD_2000
+#EXTINF:-1 tvg-chno="91",星空卫视
+http://jydx.jdshipin.com:8081/hls/87/index.m3u8
+#EXTINF:-1 tvg-chno="92",Channel [V]
+http://jydx.jdshipin.com:8081/hls/88/index.m3u8
+#EXTINF:-1 tvg-chno="93",翡翠台
+http://jydx.jdshipin.com:8081/hls/25/index.m3u8
+#EXTINF:-1 tvg-chno="94",明珠台
+http://jydx.jdshipin.com:8081/hls/26/index.m3u8
+#EXTINF:-1 tvg-chno="95",TVB星河频道
+http://jydx.jdshipin.com:8081/hls/135/index.m3u8
+#EXTINF:-1 tvg-chno="96",凤凰香港
+http://jydx.jdshipin.com:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-chno="97",CHC高清电影
+http://lcx-olt.8866.org:8181/tsfile/live/1013_1.m3u8
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="听听FM",FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="听听FM",FM1073 城市广播
