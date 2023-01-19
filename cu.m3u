@@ -110,7 +110,7 @@ rtp://239.3.1.138:8044
 #EXTINF:-1 tvg-chno="55" tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://tvlogo.784040932.tk/img/Shanxi.png",陕西卫视
 rtp://239.3.1.41:8140
 #EXTINF:-1 tvg-chno="56" tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://tvlogo.784040932.tk/img/Ningxia.png",宁夏卫视
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+rtp://239.3.1.46:8124
 #EXTINF:-1 tvg-chno="57" tvg-id="59" tvg-name="青海卫视" tvg-logo="http://tvlogo.784040932.tk/img/Qinghai.png",青海卫视
 rtp://239.3.1.44:8184
 #EXTINF:-1 tvg-chno="58" tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://tvlogo.784040932.tk/img/Gansu.png",甘肃卫视
@@ -120,7 +120,7 @@ rtp://239.3.1.52:4120
 #EXTINF:-1 tvg-chno="60" tvg-id="45" tvg-name="河北卫视" tvg-logo="http://tvlogo.784040932.tk/img/Hebei.png",河北卫视
 rtp://239.3.1.148:8072
 #EXTINF:-1 tvg-chno="61" tvg-id="54" tvg-name="山西卫视" tvg-logo="http://tvlogo.784040932.tk/img/Shanxi_.png",山西卫视
-http://liveflash.sxrtv.com/live/sxwshd.m3u8
+rtp://239.3.1.42:8172
 #EXTINF:-1 tvg-chno="62" tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://tvlogo.784040932.tk/img/Neimeng.png",内蒙古卫视
 rtp://239.3.1.43:8176
 #EXTINF:-1 tvg-chno="63" tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://tvlogo.784040932.tk/img/Xinjiang.png",新疆卫视
@@ -191,8 +191,6 @@ http://jydx.jdshipin.com:8081/hls/26/index.m3u8
 http://jydx.jdshipin.com:8081/hls/135/index.m3u8
 #EXTINF:-1 tvg-chno="96",凤凰香港
 http://jydx.jdshipin.com:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-chno="97",CHC高清电影
-http://lcx-olt.8866.org:8181/tsfile/live/1013_1.m3u8
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="听听FM",FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="听听FM",FM1073 城市广播
