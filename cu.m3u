@@ -17,7 +17,7 @@ rtp://239.3.1.249:8001
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://tvlogo.784040932.tk/img/Phoenix2.png",凤凰资讯
 https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-chno="10"tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png",歌华导视
+#EXTINF:-1 tvg-chno="10"tvg-chno="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png",歌华导视
 https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
 #EXTINF:-1 tvg-chno="11" tvg-id="30" tvg-name="北京卫视" tvg-logo="http://tvlogo.784040932.tk/img/Beijing.png",BRTV北京卫视
 rtp://239.3.1.241:8000
@@ -47,14 +47,16 @@ http://live.funhillrm.com/5/sd/live.m3u8
 rtp://239.3.1.163:8001
 #EXTINF:-1 tvg-chno="24" tvg-logo="http://uploads.784040932.tk/tv/Shijingshan.png",石景山
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/MenTouGou.png",门头沟
+#EXTINF:-1 tvg-chno="25" tvg-chno="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/MenTouGou.png",门头沟
 http://hls.yun.gehua.net.cn:8088/live/ipcdn/MenTouGouQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/Tongzhou.png",通州
 rtp://239.3.1.221:8001
 #EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/ShunYi.png",顺义
 #http://784040932.tk/tv/sydst.php?client=ANDROID&id=55291758
-#EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/PingGu.png",平谷
+#EXTINF:-1 tvg-chno="27" tvg-chno="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/PingGu.png",平谷
 http://hls.yun.gehua.net.cn:8088/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/HuaiRou.png",怀柔
+https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/MiYun.png",密云
 rtp://239.3.1.154:8001
 #EXTINF:-1 tvg-chno="30" tvg-logo="http://uploads.784040932.tk/tv/YanQing.png",延庆
@@ -151,46 +153,48 @@ rtp://239.3.1.165:8001
 rtp://239.3.1.164:8001
 #EXTINF:-1 tvg-chno="76" tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://tvlogo.784040932.tk/img/jykt.png",金鹰卡通
 rtp://239.3.1.51:9252
-#EXTINF:-1 tvg-chno="77" tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://tvlogo.784040932.tk/img/ah4k.png",爱上4K
-rtp://239.3.1.236:2000
+#EXTINF:-1 tvg-chno="77" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png",中国教育电视台-早期教育
+https://live.v1.mk/api/ghyx.php?id=ZaoQiJiaoYuHD_2000
 #EXTINF:-1 tvg-chno="78" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png",CHC家庭影院
 https://live.v1.mk/api/ghyx.php?id=CHCHD_2000
 #EXTINF:-1 tvg-chno="79" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
 https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
 #EXTINF:-1 tvg-chno="80" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png",CHC动作电影
 https://live.v1.mk/api/ghyx.php?id=MotionHD_2000
-#EXTINF:-1 tvg-chno="81" tvg-name="上海新闻综合",上海综合
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-name="上海都市",上海都市
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-name="上视东方影视",东方影视
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-name="第一财经",第一财经
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-name="上海五星体育",五星体育
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-name="上海外语",上海外语
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-name="欢笑剧场",欢笑剧场
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-name="都市剧场",都市剧场
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-name="生活时尚",生活时尚
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png",中国教育电视台-早期教育
-https://live.v1.mk/api/ghyx.php?id=ZaoQiJiaoYuHD_2000
-#EXTINF:-1 tvg-chno="91",星空卫视
-http://jydx.jdshipin.com:8081/hls/87/index.m3u8
-#EXTINF:-1 tvg-chno="92",Channel [V]
-http://jydx.jdshipin.com:8081/hls/88/index.m3u8
-#EXTINF:-1 tvg-chno="93",翡翠台
-http://jydx.jdshipin.com:8081/hls/25/index.m3u8
-#EXTINF:-1 tvg-chno="94",明珠台
-http://jydx.jdshipin.com:8081/hls/26/index.m3u8
-#EXTINF:-1 tvg-chno="95",TVB星河频道
-http://jydx.jdshipin.com:8081/hls/135/index.m3u8
-#EXTINF:-1 tvg-chno="96",凤凰香港
-http://jydx.jdshipin.com:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png",新闻综合
+https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+#EXTINF:-1 tvg-chno="82" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png",都市
+https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+#EXTINF:-1 tvg-chno="83" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png",东方影视
+https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+#EXTINF:-1 tvg-chno="84" tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png",第一财经
+https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+#EXTINF:-1 tvg-chno="85" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png",五星体育
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1 tvg-chno="86" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png",ICS
+https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+#EXTINF:-1 tvg-chno="87" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png",教育
+https://live.v1.mk/api/bestv.php?id=setvhd/8000000
+#EXTINF:-1 tvg-chno="88" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
+https://live.v1.mk/api/ghyx.php?id=DongFangCaiJingHD_6000
+#EXTINF:-1 tvg-chno="89" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
+https://live.v1.mk/api/ghyx.php?id=QuanJiShiHD_6000
+#EXTINF:-1 tvg-chno="90" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png",劲爆体育
+https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+#EXTINF:-1 tvg-chno="91" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png",魅力足球
+https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+#EXTINF:-1 tvg-chno="92" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",生活时尚
+https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+#EXTINF:-1 tvg-chno="93" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png",游戏风云
+https://live.v1.mk/api/ghyx.php?id=YouXiFengYunHD_6000
+#EXTINF:-1 tvg-chno="94" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png",动漫秀场
+https://live.v1.mk/api/ghyx.php?id=DongManXiuChangHD_6000
+#EXTINF:-1 tvg-chno="95" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png",法治天地 标清
+https://live.v1.mk/api/ghyx.php?id=FaZhiTianDiHD_2000
+#EXTINF:-1 tvg-chno="96" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png",都市剧场
+https://live.v1.mk/api/ghyx.php?id=DuShiJuChangHD_6000
+#EXTINF:-1 tvg-chno="97" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png",欢笑剧场
+https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="听听FM",FM945 新闻广播
 http://784040932.tk/radio/?id=Ovpow8a5GW&sign=a3c2ec96188b3a44d3ec5df7c471ed94
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png" group-title="听听FM",FM1073 城市广播
