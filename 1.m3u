@@ -1,55 +1,143 @@
 #EXTM3U
-#EXTINF:-1 ,测试(中南民族大学)
-http://live.scuec.edu.cn:8080/hls/btv1hd.m3u8
-#EXTINF:-1 ,测试(电视侠)
-http://iptv.tvfix.org/hls/brtv1hd.m3u8
-#EXTINF:-1 ,测试(北京联通)
-http://beifeng.site:4000/udp/239.3.1.241:8000
-#EXTINF:-1 ,测试(杭州移动)
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8
-#EXTINF:-1 ,测试(黑龙江移动)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 ,测试(鸡西移动)
-http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 ,测试(贵州移动)
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,测试(江西移动-1)
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,测试(江西移动-2)
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,测试(江西移动-3)
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-7)
-http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-3)
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227694/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-14)
-http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-18)
-http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221228115/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-19)
-http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-143)
-http://183.207.249.143/ott.js.chinamobile.com/PLTV/3/224/3221227390/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-153)
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-163)
-http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-169)
-http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-170)
-http://183.207.249.170/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-174)
-http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227390/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-235)
-http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221227508/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-236)
-http://183.207.249.236/ott.js.chinamobile.com/PLTV/3/224/3221227508/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-237)
-http://183.207.249.237/ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8
-#EXTINF:-1 ,测试(江苏移动-238)
-http://183.207.249.238/ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8
-#EXTINF:-1 ,测试(陕西移动-1)
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-#EXTINF:-1 ,测试(陕西移动-2)
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+#EXTINF:-1 tvg-chno="1",淘精彩
+http://router.tonyliangli.cn:4022/udp/239.3.1.178:8001
+#EXTINF:-1 tvg-chno="2",萌宠TV
+http://router.tonyliangli.cn:4022/udp/239.3.1.102:8001
+#EXTINF:-1 tvg-chno="3",淘Baby
+http://router.tonyliangli.cn:4022/udp/239.3.1.238:8001
+#EXTINF:-1 tvg-chno="4",淘剧场
+http://router.tonyliangli.cn:4022/udp/239.3.1.95:8001
+#EXTINF:-1 tvg-chno="5",淘电影
+http://router.tonyliangli.cn:4022/udp/239.3.1.250:8001
+#EXTINF:-1 tvg-chno="6",淘娱乐
+http://router.tonyliangli.cn:4022/udp/239.3.1.100:8001
+#EXTINF:-1 tvg-chno="7",4K超清
+http://router.tonyliangli.cn:4022/udp/239.3.1.249:8001
+#EXTINF:-1 tvg-chno="8",凤凰中文
+https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-chno="9",凤凰资讯
+https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-chno="10",BRTV体育休闲
+http://router.tonyliangli.cn:4022/udp/239.3.1.243:8000
+#EXTINF:-1 tvg-chno="11",BRTV北京卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.241:8000
+#EXTINF:-1 tvg-chno="12",BRTV文艺
+http://router.tonyliangli.cn:4022/udp/239.3.1.242:8000
+#EXTINF:-1 tvg-chno="13",BRTV纪实科教
+http://router.tonyliangli.cn:4022/udp/239.3.1.115:8000
+#EXTINF:-1 tvg-chno="14",BRTV影视
+http://router.tonyliangli.cn:4022/udp/239.3.1.158:8000
+#EXTINF:-1 tvg-chno="15",BRTV财经
+http://router.tonyliangli.cn:4022/udp/239.3.1.116:8000
+#EXTINF:-1 tvg-chno="17",BRTV生活
+http://router.tonyliangli.cn:4022/udp/239.3.1.117:8000
+#EXTINF:-1 tvg-chno="19",BRTV新闻
+http://router.tonyliangli.cn:4022/udp/239.3.1.159:8000
+#EXTINF:-1 tvg-chno="20",BRTV卡酷少儿
+http://router.tonyliangli.cn:4022/udp/239.3.1.189:8000
+#EXTINF:-1 tvg-chno="21",房山无线
+http://router.tonyliangli.cn:4022/udp/239.3.1.96:8001
+#EXTINF:-1 tvg-chno="22",房山有线
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 tvg-chno="23",朝阳
+http://router.tonyliangli.cn:4022/udp/239.3.1.163:8001
+#EXTINF:-1 tvg-chno="24",通州
+http://router.tonyliangli.cn:4022/udp/239.3.1.221:8001
+#EXTINF:-1 tvg-chno="25",密云
+http://router.tonyliangli.cn:4022/udp/239.3.1.154:8001
+#EXTINF:-1 tvg-chno="26",延庆
+http://router.tonyliangli.cn:4022/udp/239.3.1.187:8001
+#EXTINF:-1 tvg-chno="27",BTV国际频道
+http://router.tonyliangli.cn:4022/udp/239.3.1.235:8000
+#EXTINF:-1 tvg-chno="31",湖南卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.132:8012
+#EXTINF:-1 tvg-chno="32",江苏卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.135:8028
+#EXTINF:-1 tvg-chno="33",浙江卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.137:8036
+#EXTINF:-1 tvg-chno="34",东方卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.136:8032
+#EXTINF:-1 tvg-chno="35",深圳卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.134:8020
+#EXTINF:-1 tvg-chno="36",云南卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.26:8108
+#EXTINF:-1 tvg-chno="37",安徽卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.211:8064
+#EXTINF:-1 tvg-chno="38",辽宁卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.210:8056
+#EXTINF:-1 tvg-chno="39",山东卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.209:8052
+#EXTINF:-1 tvg-chno="40",中国教育电视台-3(北京频道)
+http://router.tonyliangli.cn:4022/udp/239.3.1.55:4120
+#EXTINF:-1 tvg-chno="41",中国教育电视台-1(综合教育)
+http://router.tonyliangli.cn:4022/udp/239.3.1.57:8152
+#EXTINF:-1 tvg-chno="42",重庆卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.122:8160
+#EXTINF:-1 tvg-chno="43",黑龙江卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.133:8016
+#EXTINF:-1 tvg-chno="44",海南卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.45:8304
+#EXTINF:-1 tvg-chno="45",贵州卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.149:8076
+#EXTINF:-1 tvg-chno="46",四川卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.29:8288
+#EXTINF:-1 tvg-chno="47",江西卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.123:8164
+#EXTINF:-1 tvg-chno="48",天津卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.141:1234
+#EXTINF:-1 tvg-chno="49",广西卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.39:8300
+#EXTINF:-1 tvg-chno="50",河南卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.27:8128
+#EXTINF:-1 tvg-chno="51",广东卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.142:8048
+#EXTINF:-1 tvg-chno="52",吉林卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.240:8172
+#EXTINF:-1 tvg-chno="53",福建东南卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.156:8148
+#EXTINF:-1 tvg-chno="54",湖北卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.138:8044
+#EXTINF:-1 tvg-chno="55",陕西卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.41:8140
+#EXTINF:-1 tvg-chno="56",宁夏卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.46:8124
+#EXTINF:-1 tvg-chno="57",青海卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.44:8184
+#EXTINF:-1 tvg-chno="58",甘肃卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.49:8188
+#EXTINF:-1 tvg-chno="59",山东教育卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.52:4120
+#EXTINF:-1 tvg-chno="60",河北卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.148:8072
+#EXTINF:-1 tvg-chno="61",山西卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.42:8172
+#EXTINF:-1 tvg-chno="62",内蒙古卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.43:8176
+#EXTINF:-1 tvg-chno="63",新疆卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.48:8160
+#EXTINF:-1 tvg-chno="64",西藏卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.47:8164
+#EXTINF:-1 tvg-chno="65",中国教育电视台-4(职业教育)
+http://router.tonyliangli.cn:4022/udp/239.3.1.56:4120
+#EXTINF:-1 tvg-chno="66",厦门卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.143:4120
+#EXTINF:-1 tvg-chno="67",金鹰纪实
+http://router.tonyliangli.cn:4022/udp/239.3.1.58:8156
+#EXTINF:-1 tvg-chno="68",纪实人文
+http://router.tonyliangli.cn:4022/udp/239.3.1.212:8060
+#EXTINF:-1 tvg-chno="69",三沙卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.155:4120
+#EXTINF:-1 tvg-chno="70",兵团卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.144:4120
+#EXTINF:-1 tvg-chno="71",大湾区卫视
+http://router.tonyliangli.cn:4022/udp/239.3.1.161:8001
+#EXTINF:-1 tvg-chno="72",嘉佳卡通
+http://router.tonyliangli.cn:4022/udp/239.3.1.147:9268
+#EXTINF:-1 tvg-chno="73",中国教育电视台-2(教学频道)
+http://router.tonyliangli.cn:4022/udp/239.3.1.54:4120
+#EXTINF:-1 tvg-chno="74",茶频道
+http://router.tonyliangli.cn:4022/udp/239.3.1.165:8001
+#EXTINF:-1 tvg-chno="75",快乐垂钓
+http://router.tonyliangli.cn:4022/udp/239.3.1.164:8001
+#EXTINF:-1 tvg-chno="76",金鹰卡通
+http://router.tonyliangli.cn:4022/udp/239.3.1.51:9252
