@@ -16,7 +16,7 @@ http://pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV新闻
 http://pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BRTV卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1 综合
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/608807420
 #EXTINF:-1 tvg-chno="12" tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2 财经
