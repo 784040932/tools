@@ -231,7 +231,9 @@ https://rscdn.ajmide.com:443/r_84/84.m3u8
 https://rscdn.ajmide.com:443/r_2878/live_2878.m3u8
 #EXTINF:-1 radio="true" tvg-chno="18" tvg-logo="https://img-ossimg.ajmide.com/program/1GtKr9.png" group-title="阿基米德FM",FM887 CRI Hit FM
 https://rscdn.ajmide.com:443/r_125/125.m3u8
-#EXTINF:-1 radio="true" tvg-chno="19" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png" group-title="",FM1039 交通广播
+#EXTINF:-1 radio="true" tvg-chno="19" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png" group-title="蜻蜓FM",FM1039 交通广播
 http://ls.qingting.fm/live/336.m3u8
-#EXTINF:-1 radio="true" tvg-chno="20" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="",FM945 新闻广播
+#EXTINF:-1 radio="true" tvg-chno="20" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="",FM945 新闻广播 HD
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-chno="21" tvg-logo="http://resezfm.meldingcloud.com/image/1907/1563347472411.jpg" group-title="",FM887 CRI Hit FM HD
+http://liveop.cctv.cn/hls/cctvn/playlist.m3u8
