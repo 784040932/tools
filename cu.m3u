@@ -195,8 +195,6 @@ https://live.v1.mk/api/ghyx.php?id=FaZhiTianDiHD_2000
 https://live.v1.mk/api/ghyx.php?id=DuShiJuChangHD_6000
 #EXTINF:-1 tvg-chno="97" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png",欢笑剧场
 https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
-#EXTINF:-1 tvg-chno="99" tvg-name="北京纪实" tvg-logo="http://uploads.784040932.tk/tv/BRTV3-8K.png",北京纪实科教8K
-http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png",FM945 新闻广播
 https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 #EXTINF:-1 radio="true" tvg-chno="2" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/7e/29/7e2963e58367f1d4398b4f1ee2103a33.png",FM1073 城市广播
@@ -231,11 +229,15 @@ http://iptv.cooltv.top/tv/ytradio.php?id=354
 http://iptv.cooltv.top/tv/ytradio.php?id=355
 #EXTINF:-1 radio="true" tvg-chno="17" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/0226/e8/01/e8011fde186eabcfa49b83e82f44d3c3.png",FM1006 京津冀之声
 http://iptv.cooltv.top/tv/ytradio.php?id=687
-#EXTINF:-1 radio="true" tvg-chno="18" tvg-logo="http://iptv.cooltv.top/logo/959.png",年代959
+#EXTINF:-1 radio="true" tvg-chno="18" tvg-logo="http://ytmedia.radio.cn/radioLogo/10607712.png",KFM981
+http://iptv.cooltv.top/tv/ytradio.php?id=1310
+#EXTINF:-1 radio="true" tvg-chno="19" tvg-logo="https://ytmedia.radio.cn/CCYT/202206/09/10/s9nky8EWzZjyo8i6M3fRuRC22022060910929.png",年代音乐889
 http://iptv.cooltv.top/tv/ytradio.php?id=2397
-#EXTINF:-1 radio="true" tvg-chno="19" tvg-logo="http://resezfm.meldingcloud.com/image/1907/1563347472411.jpg",FM887 CRI Hit FM HD
+#EXTINF:-1 radio="true" tvg-chno="20" tvg-logo="https://ytmedia.radio.cn/CCYT/202206/09/10/XbVrjR4kOVvgwUjn5vnb2022060910863.png",年代音乐1032
+http://iptv.cooltv.top/tv/ytradio.php?id=2398
+#EXTINF:-1 radio="true" tvg-chno="21" tvg-logo="http://resezfm.meldingcloud.com/image/1907/1563347472411.jpg",FM887 CRI Hit FM HD
 http://liveop.cctv.cn/hls/cctvn/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-chno="20" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png",FM1039 交通广播
+#EXTINF:-1 radio="true" tvg-chno="22" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png",FM1039 交通广播
 http://ls.qingting.fm/live/336.m3u8
-#EXTINF:-1 radio="true" tvg-chno="21" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png",FM1039 交通广播
+#EXTINF:-1 radio="true" tvg-chno="23" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png",FM1039 交通广播
 https://rscdn.ajmide.com:443/r_85/85.m3u8
