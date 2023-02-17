@@ -48,13 +48,13 @@ rtp://239.3.1.163:8001
 #EXTINF:-1 tvg-chno="24" tvg-logo="http://uploads.784040932.tk/tv/Shijingshan.png",石景山
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-chno="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/MenTouGou.png",门头沟
-http://hls.yun.gehua.net.cn:8088/live/ipcdn/MenTouGouQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
+https://live.v1.mk/api/ghyx.php?id=MenTouGouQuXianXinWenHD_2000
 #EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/Tongzhou.png",通州
 rtp://239.3.1.221:8001
 #EXTINF:-1 tvg-chno="27" tvg-logo="http://uploads.784040932.tk/tv/ShunYi.png",顺义
 #http://784040932.tk/tv/sydst.php?client=ANDROID&id=55291758
 #EXTINF:-1 tvg-chno="27" tvg-chno="" tvg-name="" tvg-logo="http://uploads.784040932.tk/tv/PingGu.png",平谷
-http://hls.yun.gehua.net.cn:8088/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
+https://live.v1.mk/api/ghyx.php?id=PingGuQuXianXinWenHD_2000
 #EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/HuaiRou.png",怀柔
 https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/MiYun.png",密云
