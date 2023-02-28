@@ -49,6 +49,7 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 rtp://239.3.1.221:8001
 #EXTINF:-1 tvg-chno="26" tvg-logo="http://uploads.784040932.tk/tv/ShunYi.png",顺义
 #http://784040932.tk/tv/sydst.php?client=ANDROID&id=55291758
+https://livepgc.chinamcache.com/pgc/f37b95ea2af059da38e70df4f20bd1d6.flv?auth_key=1697077107-0-0-dff3093c02963f5b450b3098a2636bb4
 #EXTINF:-1 tvg-chno="28" tvg-logo="http://uploads.784040932.tk/tv/HuaiRou.png",怀柔
 https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-logo="http://uploads.784040932.tk/tv/MiYun.png",密云
