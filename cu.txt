@@ -74,10 +74,10 @@ BTV国际频道,rtp://239.3.1.235:8000
 中国教育电视台-2(教学频道),rtp://239.3.1.54:4120
 茶频道,rtp://239.3.1.165:8001
 快乐垂钓,rtp://239.3.1.164:8001
-
-
-
-
+睛彩竞技,rtp://239.3.1.125:8001
+睛彩篮球,rtp://239.3.1.126:8001
+睛彩羽毛球,rtp://239.3.1.127:8001
+睛彩广场舞,rtp://239.3.1.128:8001
 北京新闻广播,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京城市广播,http://iptv.cooltv.top/tv/ytradio.php?id=357
 北京体育广播,http://iptv.cooltv.top/tv/ytradio.php?id=359
