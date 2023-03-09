@@ -89,3 +89,4 @@ CRI Hit FM GuangZhou,http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 CRI Hit FM BeiJing,http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 CRI Hit FM HD,http://liveop.cctv.cn/hls/cctvn/playlist.m3u8
 经典音乐广播,https://live.funhillrm.com/aac_3/sd/live.m3u8
+年代音乐889,http://live.cooltv.top/tv/ytradio.php?id=2397
