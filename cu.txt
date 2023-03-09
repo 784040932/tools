@@ -79,15 +79,13 @@ BTV国际频道,rtp://239.3.1.235:8000
 茶频道,rtp://239.3.1.165:8001
 快乐垂钓,rtp://239.3.1.164:8001
 北京新闻广播,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京城市广播,http://iptv.cooltv.top/tv/ytradio.php?id=357
-北京体育广播,http://iptv.cooltv.top/tv/ytradio.php?id=359
-北京音乐广播,http://iptv.cooltv.top/tv/ytradio.php?id=356
-北京交通广播,http://iptv.cooltv.top/tv/ytradio.php?id=354
-北京文艺广播,http://iptv.cooltv.top/tv/ytradio.php?id=355
-京津冀之声,http://iptv.cooltv.top/tv/ytradio.php?id=687
+北京城市广播,https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
+北京体育广播,https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
+北京音乐广播,https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
+北京交通广播,https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
+北京文艺广播,https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
+京津冀之声,https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
 CRI Hit FM GuangZhou,http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 CRI Hit FM BeiJing,http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 CRI Hit FM HD,http://liveop.cctv.cn/hls/cctvn/playlist.m3u8
 经典音乐广播,https://live.funhillrm.com/aac_3/sd/live.m3u8
-KFM981,http://iptv.cooltv.top/tv/ytradio.php?id=1310
-年代音乐889,http://iptv.cooltv.top/tv/ytradio.php?id=2397
