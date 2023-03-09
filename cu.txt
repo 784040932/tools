@@ -23,7 +23,7 @@ BTV国际频道,rtp://239.3.1.235:8000
 石景山,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 门头沟,rtp://239.3.1.241:8000
 通州,rtp://239.3.1.221:8001
-顺义,https://livepgc.chinamcache.com/pgc/f37b95ea2af059da38e70df4f20bd1d6.flv?auth_key=1697077107-0-0-dff3093c02963f5b450b3098a2636bb4
+顺义,http://yangjy.51vip.biz/tv/sy.php
 平谷,rtp://239.3.1.241:8000
 怀柔,https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
 密云,rtp://239.3.1.154:8001
