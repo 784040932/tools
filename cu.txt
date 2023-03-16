@@ -21,10 +21,10 @@ BTV国际频道,rtp://239.3.1.235:8000
 房山有线,http://live.funhillrm.com/5/sd/live.m3u8
 朝阳,rtp://239.3.1.163:8001
 石景山,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-门头沟,rtp://239.3.1.241:8000
+门头沟,http://61.50.142.158/live/0.m3u8
 通州,rtp://239.3.1.221:8001
 顺义,http://yangjy.51vip.biz/tv/sy.php
-平谷,rtp://239.3.1.241:8000
+平谷,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 怀柔,https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
 密云,rtp://239.3.1.154:8001
 延庆,rtp://239.3.1.187:8001
