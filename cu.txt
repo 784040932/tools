@@ -5,8 +5,8 @@
 淘电影,rtp://239.3.1.250:8001
 淘娱乐,rtp://239.3.1.100:8001
 4K超清,rtp://239.3.1.249:8001
-凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 BRTV体育休闲,rtp://239.3.1.243:8000
 BRTV北京卫视,rtp://239.3.1.241:8000
 BRTV文艺,rtp://239.3.1.242:8000
@@ -24,7 +24,7 @@ BTV国际频道,rtp://239.3.1.235:8000
 门头沟,http://61.50.142.158/live/0.m3u8
 通州,rtp://239.3.1.221:8001
 顺义,http://yangjy.51vip.biz/tv/sy.php
-平谷,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+平谷,http://159.75.85.63:6798
 怀柔,https://pili-live-hdl.huairtv.com/bjhr/hrxw.m3u8
 密云,rtp://239.3.1.154:8001
 延庆,rtp://239.3.1.187:8001
