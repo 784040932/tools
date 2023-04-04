@@ -14,9 +14,9 @@ rtp://239.3.1.100:8001
 #EXTINF:-1 tvg-chno="7" tvg-logo="http://tvlogo.784040932.tk/img/bj4kcq.png",4K超清
 rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-chno="8" tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://tvlogo.784040932.tk/img/Phoenix1.png",凤凰中文
-https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
 #EXTINF:-1 tvg-chno="9" tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://tvlogo.784040932.tk/img/Phoenix2.png",凤凰资讯
-https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 #EXTINF:-1 tvg-chno="10" tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://uploads.784040932.tk/tv/BRTV6.png",BRTV体育休闲
 rtp://239.3.1.243:8000
 #EXTINF:-1 tvg-chno="11" tvg-id="30" tvg-name="北京卫视" tvg-logo="http://tvlogo.784040932.tk/img/Beijing.png",BRTV北京卫视
@@ -155,7 +155,9 @@ rtp://239.3.1.54:4120
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-chno="80" tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://tvlogo.784040932.tk/img/klcd.png",快乐垂钓
 rtp://239.3.1.164:8001
-#EXTINF:-1 tvg-chno="81" tvg-id="" tvg-name="" tvg-logo="",凤凰电影
+#EXTINF:-1 tvg-chno="81" tvg-name="BTV科教" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg",BRTV纪实科教-8K
+http://159.75.85.63:6798
+#EXTINF:-1 tvg-chno="82" tvg-id="" tvg-name="" tvg-logo="",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 radio="true" tvg-chno="1" tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png",FM945 新闻广播
 https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
