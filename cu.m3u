@@ -15,7 +15,7 @@ rtp://239.3.1.117:8000
 rtp://239.3.1.159:8000
 #EXTINF:-1 tvg-chno="8" tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://tvlogo.784040932.tk/img/kakushaoer.png",BRTV卡酷少儿
 rtp://239.3.1.189:8000
-#EXTINF:-1 tvg-chno="9" tvg-logo="",BTV国际频道
+#EXTINF:-1 tvg-chno="9" tvg-logo="",BRTV国际频道
 rtp://239.3.1.235:8000
 #EXTINF:-1 tvg-chno="10" tvg-id="30" tvg-name="北京卫视" tvg-logo="http://tvlogo.784040932.tk/img/Beijing.png",BRTV北京卫视
 rtp://239.3.1.241:8000
